@@ -1,0 +1,1098 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"dat",
+				"date1"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"F",
+				"FALSE"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"laz",
+				"lazyload"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"yea",
+				"year_pass"
+			],
+			[
+				"var",
+				"var_export"
+			],
+			[
+				"hi",
+				"hiding"
+			],
+			[
+				"f",
+				"false"
+			],
+			[
+				"co",
+				"column"
+			],
+			[
+				"a",
+				"alert"
+			],
+			[
+				"c",
+				"checked	Attr"
+			],
+			[
+				"h",
+				"hiding"
+			],
+			[
+				"add",
+				"address_chk"
+			],
+			[
+				"lo",
+				"load_data"
+			],
+			[
+				"year",
+				"year_pass"
+			],
+			[
+				"echo",
+				"echo"
+			],
+			[
+				"ver",
+				"verified_placement_details"
+			],
+			[
+				"ret",
+				"ret	return"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"stu",
+				"students"
+			],
+			[
+				"hea",
+				"headers"
+			],
+			[
+				"esl",
+				"else"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"ses",
+				"session_userdata	CI - Session - Retrieving Session Data"
+			],
+			[
+				"res",
+				"response_error"
+			],
+			[
+				"border-lef",
+				"border-top-left-radius"
+			],
+			[
+				"def",
+				"def?	defined(…)"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"arr",
+				"arriers"
+			],
+			[
+				"cont",
+				"continue	Language Construct"
+			],
+			[
+				"st",
+				"std"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"mar",
+				"marks_details"
+			],
+			[
+				"ma",
+				"marks_details"
+			],
+			[
+				"el",
+				"else 	Language Construct"
+			],
+			[
+				"ec",
+				"echo	echo \"…\""
+			],
+			[
+				"tot",
+				"total"
+			],
+			[
+				"to",
+				"total_gpa"
+			],
+			[
+				"credit",
+				"total_credit"
+			],
+			[
+				"mark",
+				"mark_row"
+			],
+			[
+				"pla",
+				"placement_students"
+			],
+			[
+				"mark_s",
+				"marks_search"
+			],
+			[
+				"per",
+				"percent"
+			],
+			[
+				"send",
+				"send_mail"
+			],
+			[
+				"va",
+				"valid"
+			],
+			[
+				"student",
+				"student_regno"
+			],
+			[
+				"ye",
+				"year_pass"
+			],
+			[
+				"li",
+				"list"
+			],
+			[
+				"privacy_",
+				"privacy_academic"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"us",
+				"userdata"
+			],
+			[
+				"load",
+				"load_library	CI - Load Library"
+			],
+			[
+				"validate_p",
+				"validate_placement_ajax"
+			],
+			[
+				"pl",
+				"placement"
+			],
+			[
+				"off",
+				"offers_data"
+			],
+			[
+				"strp",
+				"strpos()	standard Function"
+			],
+			[
+				"offe",
+				"offer_txt"
+			],
+			[
+				"company",
+				"company_username"
+			],
+			[
+				"br",
+				"br"
+			],
+			[
+				"ech",
+				"echo 	Language Construct"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"forea",
+				"foreach	Language Construct"
+			],
+			[
+				"news",
+				"news_form"
+			],
+			[
+				"pro",
+				"profile_check"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"priv",
+				"privacy_settings"
+			],
+			[
+				"priva",
+				"privacy_academic"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"reg",
+				"regno"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"ar",
+				"argument"
+			],
+			[
+				"roun",
+				"round()	standard Function"
+			],
+			[
+				"check",
+				"check_isvalidated"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"size",
+				"sizeof()	standard Function"
+			],
+			[
+				"sear",
+				"search"
+			],
+			[
+				"percent",
+				"percent_min"
+			],
+			[
+				"sli",
+				"percent_slider"
+			],
+			[
+				"slid",
+				"year_slider"
+			],
+			[
+				"b",
+				"border-color"
+			],
+			[
+				"onk",
+				"onkeyup	Attr"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"resul",
+				"result_array"
+			],
+			[
+				"BR",
+				"branch_details"
+			],
+			[
+				"bra",
+				"branch"
+			],
+			[
+				"branch_",
+				"branch_name"
+			],
+			[
+				"sub1",
+				"sub1_status"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"array_cou",
+				"array_count_values()	standard Function"
+			],
+			[
+				"j",
+				"javascript"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"forgot",
+				"forgotpassword"
+			],
+			[
+				"w",
+				"whitesmiths"
+			],
+			[
+				"studen",
+				"students_table_"
+			],
+			[
+				"en",
+				"enc_id"
+			],
+			[
+				"placement_st",
+				"placement_students_marks"
+			],
+			[
+				"endf",
+				"endforeach	Language Construct"
+			],
+			[
+				"students",
+				"student_list_year_branch"
+			],
+			[
+				"smi",
+				"smint"
+			],
+			[
+				"my",
+				"mySelector"
+			],
+			[
+				"op",
+				"optionLocs"
+			],
+			[
+				"exit",
+				"exit()	Language Construct"
+			],
+			[
+				"pag",
+				"page"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"students_",
+				"students_update_verify"
+			],
+			[
+				"se",
+				"semesters"
+			],
+			[
+				"filee",
+				"file_exists()	standard Function"
+			],
+			[
+				"po",
+				"populate_total_percent"
+			],
+			[
+				"re",
+				"ret	return"
+			],
+			[
+				"sub2",
+				"sub2_status"
+			],
+			[
+				"fals",
+				"FALSE	Core Constant"
+			],
+			[
+				"pos",
+				"post"
+			],
+			[
+				"sem",
+				"add_semester"
+			],
+			[
+				"sub11",
+				"sub11_row"
+			],
+			[
+				"sub10",
+				"sub10_row"
+			],
+			[
+				"sub9",
+				"sub9_row"
+			],
+			[
+				"spa",
+				"span_add"
+			],
+			[
+				"get",
+				"getAxisX"
+			],
+			[
+				"or",
+				"or 	Language Construct"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "public static void main(String[] args) throws Exception {\n    String username = \"bob@google.org\";\n    String password = \"Password1\";\n    String secretID = \"BlahBlahBlah\";\n    String SALT2 = \"deliciously salty\";\n\n    // Get the Key\n    byte[] key = (SALT2 + username + password).getBytes();\n    System.out.println((SALT2 + username + password).getBytes().length);\n\n    // Need to pad key for AES\n    // TODO: Best way?\n\n    // Generate the secret key specs.\n    SecretKeySpec secretKeySpec = new SecretKeySpec(key, \"AES\");\n\n    // Instantiate the cipher\n    Cipher cipher = Cipher.getInstance(\"AES\");\n    cipher.init(Cipher.ENCRYPT_MODE, secretKeySpec);\n\n    byte[] encrypted = cipher.doFinal((secrectID).getBytes());\n    System.out.println(\"encrypted string: \" + asHex(encrypted));\n\n    cipher.init(Cipher.DECRYPT_MODE, secretKeySpec);\n    byte[] original = cipher.doFinal(encrypted);\n    String originalString = new String(original);\n    System.out.println(\"Original string: \" + originalString + \"\\nOriginal string (Hex): \" + asHex(original));\n}\n\n\n\nbyte[] key = (SALT2 + username + password).getBytes(\"UTF-8\");\nMessageDigest sha = MessageDigest.getInstance(\"SHA-1\");\nkey = sha.digest(key);\nkey = Arrays.copyOf(key, 16); // use only first 128 bit\n\nSecretKeySpec secretKeySpec = new SecretKeySpec(key, \"AES\");",
+			"settings":
+			{
+				"buffer_size": 1308,
+				"line_ending": "Windows",
+				"name": "public static void main(String[] args) throws Exce"
+			}
+		},
+		{
+			"file": "/C/Users/Jithu R Jacob/Documents/MAIN PROJECT/QR_Code_Java/QR_Code_Java/src/net/viralpatel/qrcode/QRCodeJava.java",
+			"settings":
+			{
+				"buffer_size": 898,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ci",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/jithu"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/Diff.java",
+		"/C/wamp/www/uploadDocuments.js",
+		"/C/Users/Jithu R Jacob/Documents/MAIN PROJECT/site/web/register_page.jsp",
+		"/C/Users/Jithu R Jacob/AppData/Local/Temp/Rar$DIa0.514/NetworkTimeProviderTest.java",
+		"/C/Users/Jithu R Jacob/AppData/Local/Temp/Rar$DIa0.896/IntroEnterCodeActivity.java",
+		"/C/Users/Jithu R Jacob/AppData/Local/Temp/Rar$DIa0.051/TotpClock.java",
+		"/C/Users/Jithu R Jacob/Documents/MAIN PROJECT/site/web/demo.jsp",
+		"/C/Users/Jithu R Jacob/Documents/MAIN PROJECT/site/web/login.jsp",
+		"/C/Users/Jithu R Jacob/Documents/MAIN PROJECT/site/web/nav_default.jsp",
+		"/C/Users/Jithu R Jacob/Documents/MAIN PROJECT/site/web/login_page.jsp",
+		"/C/Users/Jithu R Jacob/Documents/MAIN PROJECT/site/web/nav_2.jsp",
+		"/C/Users/Jithu R Jacob/Documents/MAIN PROJECT/site/web/index.jsp",
+		"/C/Users/Jithu R Jacob/Documents/MAIN PROJECT/site/web/login.html",
+		"/C/Users/Jithu R Jacob/Documents/MAIN PROJECT/site/web/nav.jsp",
+		"/C/wamp/www/jithu/index.html",
+		"/C/wamp/www/jithu/css/default.css",
+		"/C/wamp/www/jithu/css/layout.css",
+		"/E/DESKTOP/desktop data/TNT files/java code ds/Chap03/InsertSort/insertSort.java",
+		"/C/Users/Jithu R Jacob/Documents/MAIN PROJECT/site/web/demo_qr.jsp",
+		"/C/Users/Jithu R Jacob/AppData/Local/Temp/Rar$DIa0.154/users.sql",
+		"/C/Users/Jithu R Jacob/AppData/Local/Temp/Rar$DIa0.753/Main.tns",
+		"/C/Users/Jithu R Jacob/AppData/Local/Temp/Rar$DIa0.824/Activate.tns",
+		"/C/Users/Jithu R Jacob/Documents/MAIN PROJECT/sequoro/app/src/main/java/com/jithurjacob/sequoro/LoginActivity.java",
+		"/C/Users/Jithu R Jacob/Documents/MAIN PROJECT/sequoro/app/src/main/java/com/jithurjacob/sequoro/KeySync.java",
+		"/E/SpeechToTextDemo/SpeechToTextDemo/AndroidManifest.xml",
+		"/E/SpeechToTextDemo/SpeechToTextDemo/src/net/viralpatel/android/speechtotextdemo/MainActivity.java",
+		"/C/Users/Jithu R Jacob/Downloads/Network+Security, DS , DBMS with 4 days each - mak",
+		"/Z/pro support/Btech Projects/seniors projects/ramees/project/thinkforce/ALL web classes/Day 3/MyWebRe/src/java/com/mfw/beans/LoginBean.java",
+		"/Z/pro support/Btech Projects/seniors projects/ramees/project/thinkforce/ALL web classes/Day 3/MyWebRe/src/java/com/mfw/beans/RegisterBean.java",
+		"/Z/pro support/Btech Projects/seniors projects/ramees/project/thinkforce/ALL web classes/Day 3/MyWebRe/src/java/com/mfw/db/LoginBeanManager.java",
+		"/Z/pro support/Btech Projects/seniors projects/ramees/project/thinkforce/ALL web classes/Day 3/MyWebRe/src/java/com/mfw/db/RegisterBeanManager.java",
+		"/Z/pro support/Btech Projects/seniors projects/ramees/project/thinkforce/ALL web classes/Day 3/MyWebRe/src/java/com/mfw/db/DBConnectionManager.java",
+		"/Z/pro support/Btech Projects/seniors projects/ramees/project/thinkforce/ALL web classes/Day 3/MyWebRe/web/index.jsp",
+		"/Z/pro support/Btech Projects/seniors projects/ramees/project/thinkforce/ALL web classes/Day 3/db/mfw_re.sql",
+		"/Z/pro support/Btech Projects/seniors projects/ramees/project/thinkforce/ALL web classes/Day 3/MyWebRe/src/java/com/mfw/serv/LoginServlet.java",
+		"/Z/pro support/Btech Projects/seniors projects/ramees/project/GPixWeb/web/js/login.js",
+		"/Z/pro support/Btech Projects/seniors projects/ramees/project/GPixWeb/web/Register.jsp",
+		"/Z/pro support/Btech Projects/seniors projects/ramees/project/GPixWeb/web/account.jsp",
+		"/Z/pro support/Btech Projects/seniors projects/ramees/project/GPixWeb/web/about_user.jsp",
+		"/Z/pro support/Btech Projects/seniors projects/ramees/project/GPixWeb/web/about.jsp",
+		"/Z/pro support/Btech Projects/seniors projects/ramees/project/GPixWeb/src/java/com/gpixsynchro/servlet/UsernameCheckServlet.java",
+		"/Z/pro support/Btech Projects/seniors projects/ramees/project/GPixWeb/src/java/com/gpixsynchro/servlet/LikeServlet.java",
+		"/Z/pro support/Btech Projects/seniors projects/ramees/project/GPixWeb/src/java/com/gpixsynchro/connection/TripInfoBeanManager.java",
+		"/Z/pro support/Btech Projects/seniors projects/ramees/project/GPixWeb/src/java/com/gpixsynchro/connection/PictureInfoBeanManager.java",
+		"/Z/pro support/Btech Projects/seniors projects/ramees/project/GPixWeb/src/java/com/gpixsynchro/connection/DbConnection.java",
+		"/Z/pro support/Btech Projects/seniors projects/ramees/project/GPixWeb/src/java/com/gpixsynchro/bean/LoginBean.java",
+		"/Z/pro support/Btech Projects/seniors projects/ramees/project/GPixWeb/src/java/com/gpixsynchro/bean/TripInfoBean.java",
+		"/Z/pro support/Btech Projects/seniors projects/ramees/project/GPixWeb/src/java/com/gpixsynchro/bean/FriendBean.java",
+		"/Z/pro support/Btech Projects/seniors projects/ramees/project/GPixWeb/src/java/com/gpixsynchro/bean/CommentBean.java",
+		"/Z/pro support/Btech Projects/seniors projects/ramees/project/GPixWeb/src/java/com/gp/webservice/GPWebService.java",
+		"/Z/pro support/Btech Projects/seniors projects/ramees/project/gpix/Gpix(android)/src/pr/services/GPSService.java",
+		"/Z/pro support/Btech Projects/seniors projects/ramees/project/gpix/Gpix(android)/src/pr/gandro/TripActivity.java",
+		"/Z/pro support/Btech Projects/seniors projects/ramees/project/gpix/Gpix(android)/src/pr/gandro/LoginActivity.java",
+		"/Z/pro support/Btech Projects/seniors projects/ramees/Server.java",
+		"/Z/pro support/Btech Projects/seniors projects/rakhi snr main/New folder (6)/MultimediaSS/src/com/ms/handlers/ClientHandler.java",
+		"/Z/pro support/Btech Projects/seniors projects/rakhi snr main/New folder (6)/MultimediaSS/src/com/ms/DBConnection/DBConnection.java",
+		"/Z/pro support/Btech Projects/seniors projects/rakhi snr main/New folder (6)/MultimediaSS/src/com/ms/beans/LoginBean.java",
+		"/Z/pro support/Btech Projects/seniors projects/rakhi snr main/New folder (6)/MultimediaSC/src/com/ms/manager/CaptureImage.java",
+		"/Z/pro support/Btech Projects/seniors projects/rakhi snr main/New folder (6)/MultimediaSC/src/com/ms/manager/AES.java",
+		"/Z/pro support/Btech Projects/seniors projects/rakhi snr main/New folder (6)/MultimediaSC/src/com/ms/gui/ImagePanel.java",
+		"/Z/pro support/Btech Projects/seniors projects/rakhi snr main/New folder (6)/MultimediaSC/src/com/ms/constants/AppConstants.java",
+		"/Z/pro support/Btech Projects/seniors projects/rakhi snr main/New folder (6)/MultimediaSC/src/com/ms/beans/LoginBean.java",
+		"/Z/pro support/Btech Projects/seniors projects/rakhi snr main/New folder (6)/MultimediaSC/src/com/ms/beans/FileTransferBean.java",
+		"/Z/pro support/Btech Projects/seniors projects/rakhi snr main/New folder (6)/MultimediaSC/src/com/ms/beans/FileDownloadBean.java",
+		"/Z/pro support/Btech Projects/seniors projects/rakhi snr main/New folder (6)/MultimediaSC/src/com/ms/bean/ImageWithInfo.java",
+		"/Z/pro support/Btech Projects/seniors projects/rakhi snr main/New folder (6)/MultimediaSC/src/com/ms/bean/RGB.java",
+		"/Z/pro support/Btech Projects/seniors projects/rakhi snr main/New folder (6)/MultimediaSC/src/com/ms/bean/ImageSlice.java",
+		"/C/Users/Jithu R Jacob/AppData/Local/Temp/Rar$DIa0.288/HomeActivity.java",
+		"/C/Users/Jithu R Jacob/AppData/Local/Temp/Rar$DIa0.345/activity_login.xml",
+		"/C/Users/Jithu R Jacob/AppData/Local/Temp/Rar$DIa0.136/LoginActivity.java",
+		"/Z/pro support/Btech Projects/seniors projects/Project/VisualCryptography/src/com/visualcrypt/util/AppConstants.java",
+		"/Z/pro support/Btech Projects/seniors projects/Project/VisualCryptography/src/com/visualcrypt/logic/MainClass.java",
+		"/Z/pro support/Btech Projects/seniors projects/Project/VisualCryptography/src/com/visualcrypt/logic/Crypting.java",
+		"/Z/pro support/Btech Projects/seniors projects/Project/JavaMail/src/com/javamail/sending/SendingClass.java",
+		"/Z/pro support/Btech Projects/seniors projects/Project/ImageComparison/src/com/image/manager/ImageComparison.java",
+		"/Z/pro support/Btech Projects/seniors projects/Project/JavaMail/src/com/javamail/sending/SendMailTLS.java",
+		"/Z/pro support/Btech Projects/seniors projects/NITHINR REPORT/20_1/ipms.sql",
+		"/Z/pro support/Btech Projects/seniors projects/NITHINR REPORT/20_1/WebApplication1/web/scripts/png_fix_elements.js",
+		"/Z/pro support/Btech Projects/seniors projects/NITHINR REPORT/20_1/WebApplication1/web/scripts/DD_belatedPNG_0.0.7a.js",
+		"/Z/pro support/Btech Projects/seniors projects/NITHINR REPORT/20_1/WebApplication1/web/addarr.jsp",
+		"/Z/pro support/Btech Projects/it5project/Turism/Turism/line_animation.js",
+		"/Z/pro support/Btech Projects/it5project/Turism/Turism/JScript.js",
+		"/Z/pro support/Btech Projects/it5project/Turism/SQLQuery4.sql",
+		"/Z/pro support/Btech Projects/it5project/Turism/SQLQuery8.sql",
+		"/Z/New folder/CloudMov/CLoudMovAndroid/src/com/cloudmovandroid/activity/Registration.java",
+		"/C/Users/Jithu R Jacob/Documents/MAIN PROJECT/sequoro/app/src/main/res/values/strings.xml",
+		"/C/Users/Jithu R Jacob/Documents/MAIN PROJECT/site/web/keyupload.jsp",
+		"/Z/New folder/CloudMov/CLoudMovAndroid/src/com/cloudmovandroid/activity/Login.java",
+		"/Z/New folder/Droid_Spector/web/iphone/LoginRegistrationForm/index.html",
+		"/Z/New folder/Droid_Spector/web/iphone/js/min.js",
+		"/Z/New folder/Droid_Spector/web/iphone/javascripts/DD_belatedPNG.js",
+		"/Z/New folder/Droid_Spector/web/gmap/mapshow.jsp",
+		"/Z/New folder/Droid_Spector/web/login.jsp",
+		"/Z/New folder/Droid_Spector/web/callsorting.jsp",
+		"/Z/New folder/Droid_Spector/src/java/DB/DBConnection.java",
+		"/Z/New folder/VirtualAgentLab1/web/indexaction.jsp",
+		"/Z/New folder/VirtualAgentLab1/web/index.jsp",
+		"/Z/New folder/VirtualAgentLab1/build.xml",
+		"/Z/BloodDonator/src/com/samcoc/bloodtracker/HomeFragment.java",
+		"/Z/BloodDonator/src/com/samcoc/bloodtracker/Login.java",
+		"/Z/BloodDonator/src/com/samcoc/bloodtracker/SplashScreen.java",
+		"/Z/New folder/VirtualAgentLab1/src/java/DBClass.java",
+		"/Z/BloodDonator/src/com/samcoc/bloodtracker/web/CustomRequest.java",
+		"/Z/BloodDonator/src/com/samcoc/bloodtracker/web/WebService.java",
+		"/Z/BloodDonator/src/com/samcoc/bloodtracker/CustomGrid.java",
+		"/Z/BloodDonator/res/drawable/login_hover.xml",
+		"/Z/BloodDonator/res/drawable/header_blood.xml",
+		"/Z/Junk/php/Code/Lesson 5/random.php",
+		"/Z/Junk/wordpress/wordpress.py",
+		"/Z/Junk/aadar/uidai-auth-client/src/main/java/in/gov/uidai/auth/aua/httpclient/OtpClient.java",
+		"/Z/Junk/aadar/uidai-auth-client/src/main/java/in/gov/uidai/auth/aua/httpclient/AuthClient.java",
+		"/Z/Junk/New folder/D/images/mal.js",
+		"/Z/Junk/New folder/D/copy pc/ams2 (1).sql",
+		"/C/wamp/www/sequoro/index.html",
+		"/C/wamp/www/sequoro/font-awesome-4.2.0/css/font-awesome.css",
+		"/C/wamp/www/sequoro/index_.html",
+		"/C/wamp/www/sequoro/css/font-awesome.min.css",
+		"/C/wamp/www/sequoro/index-top-nav.html",
+		"/C/Users/Jithu R Jacob/Documents/MAIN PROJECT/private class DownloadWebpageTask extends",
+		"/C/Users/Jithu R Jacob/Downloads/X509CertificateGenerator.java",
+		"/C/Users/Jithu R Jacob/Documents/MAIN PROJECT/bk/package com.jithurjacob.sequoro.txt",
+		"/E/test/sequoro/app/src/main/java/com/jithurjacob/sequoro/KeySync.java",
+		"/C/Users/Jithu R Jacob/Downloads/jithu@gmail.com712.9264724770223.key",
+		"/F/site/site/src/java/crypto/RSAEncryptionDescription.java",
+		"/E/test/sequoro/app/src/main/java/com/jithurjacob/sequoro/RSAEncryptionDecryption.java",
+		"/C/Users/Jithu R Jacob/Documents/MAIN PROJECT/site/web/server_keys/Public.key",
+		"/C/Users/Jithu R Jacob/Downloads/jithu@gmail.com6299.478733832664.key",
+		"/C/Users/Jithu R Jacob/Downloads/jithu@gmail.com5073.5348164708.key"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\wamp\\www\\main project",
+			"C:\\wamp\\www\\cep\\placement\\application\\views",
+			"C:\\wamp\\www\\cep\\placement\\application\\models",
+			"C:\\wamp\\www\\cep\\placement\\application\\views",
+			"C:\\wamp\\www\\cep\\placement\\application",
+			"C:\\wamp\\www\\cep\\placement\\application\\views",
+			"C:\\wamp\\www\\cep\\placement\\application",
+			"C:\\wamp\\www\\cep\\placement\\application\\views",
+			"C:\\wamp\\www\\cep\\placement",
+			"C:\\wamp\\www\\cep\\placement\\application",
+			"C:\\wamp\\www\\cep\\placement",
+			"C:\\Users\\Jithu R Jacob\\Downloads\\Completed Torrents\\Edge of Tomorrow (2014)\\js",
+			"C:\\wamp\\www\\cep\\placement",
+			"C:\\wamp\\www\\cep\\placement\\application",
+			"C:\\wamp\\www\\cep\\placement\\application\\models",
+			"C:\\wamp\\www\\cep\\placement\\application",
+			"C:\\wamp\\www\\cep\\placement\\application\\views",
+			"C:\\wamp\\www\\cep\\placement\\js\\under_construction\\index_files",
+			"C:\\wamp\\www\\under construction",
+			"C:\\wamp\\www\\cep\\placement",
+			"C:\\wamp\\www\\cep\\placement\\system",
+			"C:\\wamp\\www\\cep\\placement\\application\\models",
+			"C:\\wamp\\www\\cep\\placement",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bod",
+			"to do",
+			"token",
+			"package",
+			"getActivity()",
+			"aced 0005 7372 0014 6a61 7661 2e6d 6174\n682e 4269 6749 6e74 6567 6572 8cfc 9f1f\na93b fb1d 0300 0249 0006 7369 676e 756d\n5b00 096d 6167 6e69 7475 6465 7400 025b\n4278 7200 106a 6176 612e 6c61 6e67 2e4e\n756d 6265 7286 ac95 1d0b 94e0 8b02 0000\n7870 0000 0001 7572 0002 5b42 acf3 17f8\n0608 54e0 0200 0078 7000 0001 00c3 3705\n1c86 fcd5 695b 5189 2d32 15b9 27c0 548e\n03ac 9a48 69b7 6dba ae88 2573 f3bb de29\n4ed2 86c4 db32 a06b 30b9 6d3d 4f2a 2822\n33b0 194b 9f11 ea1c 1a57 2379 c435 2ee6\n9c3c 9309 1fe0 22f8 86a0 7fad 317d d906\n66de c993 02f4 a1ce b2ff 5b87 1a79 5f02\ne209 e600 2a0d 2f41 94cf cb91 aa47 4330\nb03f b2fb bfff bfa5 d031 feb1 e7e1 589d\n8f79 9c87 efd9 3c82 1986 4bb9 ace3 4e15\n43e9 4b92 2e00 4541 e9a1 8e0d 751a abb7\n61f4 9900 965b 0108 dc52 e330 ee34 633e\na5fc 15ad 82df abd2 3792 6178 f501 f722\n4823 79b7 ea2b b1aa 12f2 d86b d2b8 edb1\ne2b7 a593 1977 1a45 e5b6 fda6 5a53 7a4b\ne01a 24e2 1487 d845 6b6d 5fb2 8c9f c337\na559 44d9 04e1 d1bd df29 3dcb 6b78 7371\n007e 0000 0000 0001 7571 007e 0004 0000\n0003 0100 0178",
+			"home",
+			"352",
+			"flex",
+			"clients-feedback",
+			"17",
+			"bg",
+			"work",
+			"index.html",
+			"evic",
+			"1.jpg",
+			"erick",
+			"eric",
+			"erick.ru",
+			"4.1",
+			"fontaw",
+			"loader.",
+			"fontaw",
+			"font",
+			"web",
+			"HIST",
+			"\n\n{ \"data\":[[\"<img class='profile_pic_table' src='http:\\/\\/127.0.0.1\\/cep\\/placement\\/profile_pics\\/950286865.jpg'>\",\"Jithu R Jacob\",\"Computer Science\",\"2015\",\"77.59 %\",8.37,0,\"<div><a onclick='load_details(\\\"QTQb2h6g\\/w42OH3SFZeobtu5PHB5LqiKjSkYSGqlZ\\/iSlXwpQMk4dJJDp8udOuAKdKQRR+XWjg4rB1qMQlGnIw==\\\",\\\"here\\\")'>View Profile<\\/a><\\/div><div><a onclick='load_details(\\\"QTQb2h6g\\/w42OH3SFZeobtu5PHB5LqiKjSkYSGqlZ\\/iSlXwpQMk4dJJDp8udOuAKdKQRR+XWjg4rB1qMQlGnIw==\\\",\\\"newtab\\\")'>Open in a new tab<\\/a><\\/div>\",\"kottayam\",\"11\\/22\\/2222\",\"jithureji011@gmail.com\",\"1235467890\",\"1\",\"12121805\"],[\"<img class='profile_pic_table' src='http:\\/\\/127.0.0.1\\/cep\\/placement\\/profile_pics\\/883483886.jpg'>\",\"Mohammad Riyas\",\"Computer Science\",\"2015\",\"71.01 %\",7.61,0,\"<div><a onclick='load_details(\\\"3xVs9lHmxO69oXU2sOSVFUqr3Bx8hLz546NiO9QCpDHQufCc77eB6C6qDoCI3VssJj66xCYJImc9E4m5SOYM7Q==\\\",\\\"here\\\")'>View Profile<\\/a><\\/div><div><a onclick='load_details(\\\"3xVs9lHmxO69oXU2sOSVFUqr3Bx8hLz546NiO9QCpDHQufCc77eB6C6qDoCI3VssJj66xCYJImc9E4m5SOYM7Q==\\\",\\\"newtab\\\")'>Open in a new tab<\\/a><\\/div>\",\"gfg\",\"27\\/04\\/1994\",\"mohammedriyaskn1@gmail.com\",\"9495693478\",\"2222\",\"12121807\"],[\"<img class='profile_pic_table' src='http:\\/\\/127.0.0.1\\/cep\\/placement\\/profile_pics\\/default.jpg'>\",\"Jomin Jose\",\"Computer Science\",\"2015\",\"71.88 %\",7.69,1,\"<div><a onclick='load_details(\\\"+\\/qeiSn3Us2RHp+hwA2bTNbA\\/mDExTuJJ1B8V1VcmhdnoanuUONu4NxA0wC2BOC2y3KRY7v0M2Dvi66oew0r5w==\\\",\\\"here\\\")'>View Profile<\\/a><\\/div><div><a onclick='load_details(\\\"+\\/qeiSn3Us2RHp+hwA2bTNbA\\/mDExTuJJ1B8V1VcmhdnoanuUONu4NxA0wC2BOC2y3KRY7v0M2Dvi66oew0r5w==\\\",\\\"newtab\\\")'>Open in a new tab<\\/a><\\/div>\",null,null,\"jj@gmail.com\",null,\"2122\",\"12121806\"],[\"<img class='profile_pic_table' src='http:\\/\\/127.0.0.1\\/cep\\/placement\\/profile_pics\\/883483886.jpg'>\",\"Mohammad Niyas\",\"Computer Science\",\"2015\",\"65.51 %\",6.83,2,\"<div><a onclick='load_details(\\\"eMAw\\/GHoQY3FfCnsMBcBY8K1gINt5hn3zN72UjSV8N+W5oiKfa5ZlY14egQ+XBvxnChZalfJFgazC7wlUYZeQw==\\\",\\\"here\\\")'>View Profile<\\/a><\\/div><div><a onclick='load_details(\\\"eMAw\\/GHoQY3FfCnsMBcBY8K1gINt5hn3zN72UjSV8N+W5oiKfa5ZlY14egQ+XBvxnChZalfJFgazC7wlUYZeQw==\\\",\\\"newtab\\\")'>Open in a new tab<\\/a><\\/div>\",\"gfg\",\"27\\/04\\/1994\",\"niyas@gmail.com\",\"9495693478\",\"2223\",\"12121808\"],[\"<img class='profile_pic_table' src='http:\\/\\/127.0.0.1\\/cep\\/placement\\/profile_pics\\/814971923.jpg'>\",\"Neel\",\"Computer Science\",\"2015\",\"77.59 %\",8.23,0,\"<div><a onclick='load_details(\\\"t8IhODRPpY3sBcJxa4WOK9HHwU8PXc6Iw3jfZkATzTfkUbA4Wt5mM4Z89NcrnW4BDWnz3WuZqvznVd6gxT7+nw==\\\",\\\"here\\\")'>View Profile<\\/a><\\/div><div><a onclick='load_details(\\\"t8IhODRPpY3sBcJxa4WOK9HHwU8PXc6Iw3jfZkATzTfkUbA4Wt5mM4Z89NcrnW4BDWnz3WuZqvznVd6gxT7+nw==\\\",\\\"newtab\\\")'>Open in a new tab<\\/a><\\/div>\",null,null,\"neel@gmail.com\",null,\"13\",\"12121809\"],[\"<img class='profile_pic_table' src='http:\\/\\/127.0.0.1\\/cep\\/placement\\/profile_pics\\/814971923.jpg'>\",\"Renjith Chandran\",\"Computer Science\",\"2015\",\"71.94 %\",7.67,0,\"<div><a onclick='load_details(\\\"VqRyU2iUam1zb7vUBdJ700C5YvoSsuL3GfEnWapxCW8nAoK0D250WqWttDAHs1U+HVtfnasIiSdczVZFpLznXA==\\\",\\\"here\\\")'>View Profile<\\/a><\\/div><div><a onclick='load_details(\\\"VqRyU2iUam1zb7vUBdJ700C5YvoSsuL3GfEnWapxCW8nAoK0D250WqWttDAHs1U+HVtfnasIiSdczVZFpLznXA==\\\",\\\"newtab\\\")'>Open in a new tab<\\/a><\\/div>\",null,null,\"renjithchandran@gmail.com\",null,\"14\",\"12121810\"],[\"<img class='profile_pic_table' src='http:\\/\\/127.0.0.1\\/cep\\/placement\\/profile_pics\\/814971923.jpg'>\",\"Sreejith Mohan\",\"Computer Science\",\"2015\",\"66.37 %\",7.16,0,\"<div><a onclick='load_details(\\\"VWYiT\\/q6jyxauRQXAADHWg6LY4Z16FhH0EvQLHWupoZQZP+n95wF7LYoYQE\\/A6C7SZB8ctAccTBjHuDnew9S3g==\\\",\\\"here\\\")'>View Profile<\\/a><\\/div><div><a onclick='load_details(\\\"VWYiT\\/q6jyxauRQXAADHWg6LY4Z16FhH0EvQLHWupoZQZP+n95wF7LYoYQE\\/A6C7SZB8ctAccTBjHuDnew9S3g==\\\",\\\"newtab\\\")'>Open in a new tab<\\/a><\\/div>\",null,null,\"sreejith@gmail.com\",null,\"15\",\"12121814\"],[\"<img class='profile_pic_table' src='http:\\/\\/127.0.0.1\\/cep\\/placement\\/profile_pics\\/814971923.jpg'>\",\"Tom Jaison\",\"Computer Science\",\"2015\",\"64.45 %\",6.81,2,\"<div><a onclick='load_details(\\\"swc0K+2\\/E8yg4s07Ww50wz49w\\/E4\\/St354XZ4KDMo37n2Ii1hoFMpWyVP2LLfL3RmwolFF2rBxaTsZoZzQILig==\\\",\\\"here\\\")'>View Profile<\\/a><\\/div><div><a onclick='load_details(\\\"swc0K+2\\/E8yg4s07Ww50wz49w\\/E4\\/St354XZ4KDMo37n2Ii1hoFMpWyVP2LLfL3RmwolFF2rBxaTsZoZzQILig==\\\",\\\"newtab\\\")'>Open in a new tab<\\/a><\\/div>\",null,null,\"tom@gmail.com\",null,\"16\",\"12121815\"],[\"<img class='profile_pic_table' src='http:\\/\\/127.0.0.1\\/cep\\/placement\\/profile_pics\\/814971923.jpg'>\",\"Renjith Soman\",\"Computer Science\",\"2015\",\"68.82 %\",7.32,0,\"<div><a onclick='load_details(\\\"kep1g\\/JrPatO1l0jMMntMrtApWndyfV2NJgK6BWovA2CVbcQfakKiU+GDct0yhs67o92ymrm1+511slDeyLGUQ==\\\",\\\"here\\\")'>View Profile<\\/a><\\/div><div><a onclick='load_details(\\\"kep1g\\/JrPatO1l0jMMntMrtApWndyfV2NJgK6BWovA2CVbcQfakKiU+GDct0yhs67o92ymrm1+511slDeyLGUQ==\\\",\\\"newtab\\\")'>Open in a new tab<\\/a><\\/div>\",null,null,\"renjithsoman@gmail.com\",null,\"19\",\"12121811\"]]}",
+			"ECHO",
+			"\n",
+			"^(.*)$",
+			"ist",
+			"rgb(229, 227, 223)",
+			"our-clients",
+			"thead",
+			"=\"web",
+			"web",
+			"heade",
+			"n v",
+			"n verify",
+			"verify_",
+			"verify",
+			"verif",
+			"logout",
+			"cac",
+			"style=\"display:none",
+			"style=\"",
+			"isCoordinator",
+			"backg",
+			"lazy",
+			"slider",
+			"160",
+			"fle",
+			"160",
+			"clien",
+			"captch",
+			"admin",
+			"   }",
+			"student_name",
+			"disti",
+			"($this->input->post",
+			"get_placements",
+			"offer_det",
+			"privacy_check",
+			"placement_sear",
+			"_sear",
+			"coord",
+			"sess",
+			"ses",
+			"butt",
+			"icon-",
+			"14121813",
+			"12121835",
+			"13121825",
+			"n comp",
+			"id=\"res",
+			"n st",
+			"sub",
+			"sub_",
+			"sub_12",
+			"2015",
+			"addr",
+			"create.",
+			"function",
+			"$this->check_isadmin();",
+			"function",
+			"check_iscoordinator",
+			"function",
+			"check_iscoordinator",
+			"check_isvalidated",
+			"presenter",
+			"texture",
+			"echo",
+			"12121811",
+			"12121810",
+			"12121800",
+			"viewprofile",
+			"Error",
+			"no data",
+			"contact",
+			"#EBE5E5",
+			"year",
+			"1550",
+			"mark_of_sem",
+			") ?>",
+			"1550",
+			"($session[\"year_pass\"]",
+			"students_ma",
+			"year",
+			"cgpa",
+			"percent",
+			"https://www.facebook.com/jithurjacob007",
+			"http://www.jchartfx.com/about",
+			"chart",
+			"setS",
+			"set",
+			"reset",
+			"recover",
+			"passwor",
+			"passw",
+			"pas",
+			"change",
+			"reset",
+			"changep",
+			"find_arr",
+			"$arriers=array_count_values($temp_[\"FAIL\"]);",
+			"hom",
+			"under_c",
+			"ajax_r"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"cgpa",
+			"$this->find_arr",
+			"$arriers=find_arriers($temp_);",
+			"onkeyup=\"calculate();\" onchange=\"calculate();\"",
+			"onkeyup=\"calculate_edit();\" onchange=\"calculate_edit();\"",
+			"onkeyup=\"calculate_edit();\"",
+			"onkeyup=\"calculate();\"",
+			"keyup=\"calculate();\"",
+			"valid",
+			"placements_",
+			"placements",
+			" <?php $this->view('placement_news',$news_data); ?>",
+			"placement_news",
+			"",
+			"resume",
+			"academic",
+			"personal",
+			"logo_uc",
+			"arrier",
+			"arrier_slider",
+			"company",
+			"\"",
+			"edit_sub",
+			"edit",
+			"edit_sub",
+			"editmarks",
+			"edit_sub",
+			"check_edit",
+			"calculate_edit",
+			"span_edit",
+			"edit_sub",
+			"none\"",
+			"block\"",
+			"none\"",
+			"edit_sub",
+			"$edit_sub",
+			"edit_sub",
+			"$edit_",
+			"$success==\"",
+			"none1",
+			"less_than_or_equal_to",
+			"'",
+			"_status')",
+			"_status=",
+			"$sub1=$this->input->post('sub1');\n		$sub2=$this->input->post('sub2');\n		$sub3=$this->input->post('sub3');\n		$sub4=$this->input->post('sub4');\n		$sub5=$this->input->post('sub5');\n		$sub6=$this->input->post('sub6');\n		$sub7=$this->input->post('sub7');\n		$sub8=$this->input->post('sub8');\n		$sub9=$this->input->post('sub9');\n		$sub10=$this->input->post('sub10');\n		$sub11=$this->input->post('sub11');",
+			"update",
+			"\n		$this->load->library('form_validation', array(), 'register_form');\n\n		$this->register_form->set_rules('name', 'Name', 'trim|required|alpha_space|xss_clean');\n		$this->register_form->set_rules('username', 'Username', 'trim|alpha_numeric|min_length[5]|required|xss_clean');\n		$this->register_form->set_rules('email', 'Email', 'trim|required|valid_email|xss_clean');\n		$this->register_form->set_rules('password', 'Password', 'trim|required|min_length[8]|matches[r_password]|xss_clean');\n		$this->register_form->set_rules('r_password', 'RetypePassword', 'trim|required|min_length[8]|xss_clean');\n		$this->register_form->set_rules('admnno', 'Admission Number', 'trim|required|is_natural_no_zero|is_unique[students.admnno]|xss_clean');\n		$this->register_form->set_rules('regno', 'Registration Number', 'trim|required|is_natural_no_zero|is_unique[students.regno]|xss_clean');\n		$this->register_form->set_rules('year_pass', 'Year of Passing', 'trim|required|is_natural_no_zero|greater_than[2000]|xss_clean');\n		$this->register_form->set_rules('username', 'Username', 'is_unique[students.username]|is_unique[company.username]|is_unique[admin.username]', 'Username already exists');\n		$this->register_form->set_rules('email', 'Email', 'is_unique[students.email]', 'Email already exists');\n		$this->register_form->set_rules('admnno', 'Admission Number', 'is_unique[students.admnno]', ' %s already registerd if this was not you please contact administrator immediately');\n		$this->register_form->set_rules('regno', 'Registration Number', 'is_unique[students.admnno]', ' %s already registerd if this was not you please contact administrator immediately');\n\n		if (!$this->register_form->run()) {\n\n			// $this->load->view('placement_students_register', $data);\n\n			$data['register_form_error_msg'] = validation_errors();\n			$this->students(\"register\", $data);\n		} else {\n\n			$this->load->model('placement_students');\n\n			if ($this->placement_students->register()) {\n				$this->register_form->clear_field_data();\n				$data['register_form_success_msg'] = \"Registerd successfully wait for confirmation mail to login\";\n				$this->students(\"register\", $data);\n			} else {\n				$data['register_form_error_msg'] = \"Registration failed report this immediately to admin\";\n				$this->students(\"register\", $data);\n			}\n		}",
+			"<di v   class = \"alert   alert-wa r n i n g   a l e r t - d i s m i s s a b l e \" >\n    < b u t t o n   t y p e = \" b u t t o n \"   c l a s s = \" c l o s e \"   d a t a - d i s m i s s = \" a l e r t \"   a r i a - h i d d e n = \" t r u e \" > & t i m e s ; < / b u t t o n >\n    < s t r o n g > W a r n i n g ! < / s t r o n g >   B e t t e r   c h e c k   y o u r s e l f ,   y o u ' r e   n o t   l o o k i n g   t o o   g o o d .\n< / d i v >",
+			"",
+			"javascript:alert('only placement menu works');",
+			"\"dropdown-menu dropdown-menu-left\"",
+			"\"dropdown-menu-left\"",
+			"nav",
+			"DROP DATABASE IF EXISTS"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1307,
+								1307
+							]
+						],
+						"settings":
+						{
+							"auto_name": "public static void main(String[] args) throws Exce",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Jithu R Jacob/Documents/MAIN PROJECT/QR_Code_Java/QR_Code_Java/src/net/viralpatel/qrcode/QRCodeJava.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 898,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								189,
+								898
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 71.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.phpunit":
+	{
+		"height": 130.0
+	},
+	"project": "placement.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,1993 @@
+
+<!-- saved from url=(0102)http://exam.cusat.ac.in/erp5/cusat/Cusat-Registration/Student%20Registration/Registration%20Form/form2 -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" class=" js canvas canvastext geolocation crosswindowmessaging websqldatabase indexeddb hashchange historymanagement draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions  video audio localstorage sessionstorage webworkers applicationcache svg smil svgclippaths   fontface"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script async="" src="./form1_files/analytics.js"></script><script src="./form1_files/jquery-1.10.1.min.js"></script><style type="text/css"></style>
+<script src="./form1_files/jquery-migrate-1.2.1.min.js"></script>
+
+<script>
+setInterval(function(){
+    var future = new Date("Feb 17 2014 21:30:00 GMT+0200");
+    var now = new Date();
+    var difference = Math.floor((future.getTime() - now.getTime()) / 1000);
+    
+    var seconds = fixIntegers(difference % 60);
+    difference = Math.floor(difference / 60);
+    
+    var minutes = fixIntegers(difference % 60);
+    difference = Math.floor(difference / 60);
+    
+    var hours = fixIntegers(difference % 24);
+    difference = Math.floor(difference / 24);
+    
+    var days = difference;
+    
+    $("#seconds").text(seconds + "s");
+    $("#minutes").text(minutes + "m");
+    $("#hours").text(hours + "h");
+    $("#days").text(days + "d");
+}, 1000);
+
+function fixIntegers(integer)
+{
+    if (integer < 0)
+        integer = 0;
+    if (integer < 10)
+        return "0" + integer;
+    return "" + integer;
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=9">
+	<meta name="robots" content="index,follow">
+	<meta content="cusat home" name="WT.ti">
+	<title>Web Page - CUSAT | ERP5</title>
+	<link rel="shortcut icon" href="http://exam.cusat.ac.in/erp5/cusat/basetemplate/images/favicon.ico">
+
+	<link href="./form1_files/reset.css" rel="stylesheet" type="text/css" media="all">
+	<link href="./form1_files/style1.css" rel="stylesheet" type="text/css" media="all">
+	<link href="./form1_files/print.css" rel="stylesheet" type="text/css" media="print">
+	<link href="./form1_files/hpfeature-front.css" rel="stylesheet" type="text/css" media="all">
+        <link href="./form1_files/site-demo.css" rel="stylesheet" type="text/css" media="print">
+
+
+ <link rel="stylesheet" href="http://exam.cusat.ac.in/erp5/cusat/basetemplate/css/jquery-ui.css">
+ <link rel="stylesheet" href="http://exam.cusat.ac.in/erp5/cusat/basetemplate/css/chosen.css">
+
+
+    <script language="javascript" src="./form1_files/jquery-min.js"></script>
+    <script language="javascript" src="./form1_files/jquery-ui.js"></script>
+    <script type="text/javascript" src="./form1_files/chosen.jquery.min.js"></script>
+    <script type="text/javascript" src="./form1_files/modernizr-1.5.min.js"></script>
+
+
+	<script type="text/javascript" src="./form1_files/jquery.validate.js"></script>
+	<script type="text/javascript" src="./form1_files/jquery.hoverIntent.js"></script>
+	<script type="text/javascript" src="./form1_files/placeholderInputs.js"></script>
+	<script type="text/javascript" src="./form1_files/jquery.easing.pack.js"></script>
+	<script type="text/javascript" src="./form1_files/jquery.cycle.all.min.js"></script>
+	<script type="text/javascript" src="./form1_files/hpfeature-front-ss2.js"></script>
+        <script type="text/javascript" src="./form1_files/additional-methods.js"></script>
+<script>
+$(window).ready(function(){
+$('body').bind('copy paste', function(e) {
+ e.preventDefault();
+});
+});
+</script>
+
+	
+	<!-- OLD IE specific styles -->
+	<!--[if lte IE 6]>
+	<style type="text/css">
+	</style>
+	<![endif]-->
+
+	<!--[if lte IE 7]>
+	<style type="text/css">
+	</style>
+	<![endif]-->
+
+	<!--[if lte IE 8]>
+	<style type="text/css">
+	</style>
+	<![endif]-->
+
+	<!--[if lte IE 9]>
+	<style type="text/css">
+	</style>
+	<![endif]-->
+	<!-- end OLD IE styles -->
+	<style type="text/css">
+	.mainwidth
+	{
+		position:relative;
+		margin:0 auto;
+		/* change this value to change the central width centered in the main view */
+		width:960px;
+	}
+	#header
+	{
+		/* %replace #990000 with appropriate color */
+		background-color:#ad0505;
+		height:80px;
+	}
+	</style>
+	<script type="text/javascript">
+	jQuery(document).ready(function()
+	{
+	});
+	</script>
+
+<script type="text/javascript">
+$(function()
+{
+var x="2015/02/03 17:21:18.530 GMT+0530";
+var stdate="2014/11/04";
+var enddate="2015/01/30";
+
+
+var y= x.split(' ');
+var z=y[0].split(' ');
+var todaydate=y[0];
+
+if((new Date(todaydate)>= new Date(stdate))&&(new Date(todaydate)<= new Date(enddate)))
+{
+$(".show").show();
+}
+else{
+ $(".show").hide();
+ 
+ return false; 
+}
+
+});
+</script>
+<script type="text/javascript">
+    $(function () {
+      $(document).bind('contextmenu', function (e) {
+        e.preventDefault();
+       
+      });
+
+      /*$('.Container').bind('contextmenu',function(e){
+      e.preventDefault();
+      alert('Right Click is not allowed on div');
+      });*/
+    });
+  </script>
+
+<script type="text/javascript">
+$(function()
+{
+var x1="2015/02/03 17:21:18.533 GMT+0530";
+var stdate1="2014/09/20";
+var enddate1="2014/12/31";
+
+
+var y1= x1.split(' ');
+var z1=y1[0].split(' ');
+var todaydate1=y1[0];
+
+if((new Date(todaydate1)>= new Date(stdate1))&&(new Date(todaydate1)<= new Date(enddate1)))
+{
+$(".show1").show();
+}
+else{
+ $(".show1").hide();
+ 
+ return false; 
+}
+
+});
+</script>
+
+<script>
+document.onkeypress = function (event) {
+        event = (event || window.event);
+        if (event.keyCode == 123) {
+           //alert('No F-12');
+
+            return false;
+        }
+    }
+
+
+
+</script>
+
+
+
+
+</head>
+<body class="home page">
+<div id="header">
+	<div class="mainwidth">
+		<!--<div id="uofuseal"><img src="images/headers/watermark.png" width="960" height="142" /></div>-->
+		<div id="headerContent" class="clearfix">
+			<div id="headerLeft">
+			<a href="http://exam.cusat.ac.in/"><img src="./form1_files/logo1.jpg" width="79" height="80"></a>
+			<a href="http://exam.cusat.ac.in/"><img src="./form1_files/orgTitle3.png" alt="COCHIN UNIVERSITY OF SCIENCE AND TECHNOLOGY"></a>
+			</div><!-- end #headerLeft -->
+			</div><!-- end #headerContent -->
+		</div><!-- end .mainwidth -->
+	</div>
+
+<div id="topNavMenu">
+	<div class="mainwidth">
+	<div id="navTop" class="menu-header">
+		<ul id="menu-top-nav" class="menu">
+
+<li id="menu-item-6" class="menu-item current-menu-item">
+<a href="http://exam.cusat.ac.in/erp5/cusat/Cusat-Home/home">Home</a></li>
+<!-- another menu tab -->
+<li id="menu-item-73" class="menu-item"><a href="http://exam.cusat.ac.in/erp5/cusat/Cusat-Registration/Student%20Registration/Registration%20Form/form2#">Academics</a>
+<ul class="sub-menu">
+<li id="menu-item-79" class="menu-item"><a href="http://exam.cusat.ac.in/erp5/cusat/College-Department/home">College/Department</a></li>
+<li id="menu-item-77" class="menu-item"><a href="http://exam.cusat.ac.in/erp5/cusat/Cusat-Fees%20/home">Fees</a></li>	
+<li id="menu-item-79" class="menu-item"><a href="http://exam.cusat.ac.in/erp5/cusat/Cusat-Courses/home">Courses</a></li>
+<li id="menu-item-78" class="menu-item"><a href="http://exam.cusat.ac.in/erp5/cusat/Cusat-Faculty/home">Faculty</a></li>
+</ul>
+</li>
+<!-- In menu tabs other tab is here -->
+
+<li id="menu-item-117" class="menu-item"><a href="http://exam.cusat.ac.in/erp5/cusat/Cusat-Registration/Student%20Registration/Registration%20Form/form2#">Online Forms</a>
+<ul class="sub-menu">	
+
+<li id="menu-item-940" class="menu-item">
+<a href="http://exam.cusat.ac.in/erp5/cusat/Cusat-Registration/Student%20Registration/Instructions/home">Student Registration Form</a></li>
+
+
+<li id="menu-item-940" class="menu-item">
+<a href="http://exam.cusat.ac.in/erp5/cusat/Cusat-Recognition/home">Recognition Form</a></li>
+
+
+
+<li id="menu-item-940" class="menu-item">
+<a href="http://exam.cusat.ac.in/erp5/cusat/Cusat-Matriculation/application_form">Matriculation Registration Form</a></li>
+
+
+
+<li id="menu-item-940" class="menu-item"><a href="http://exam.cusat.ac.in/erp5/cusat/Cusat-Migration/Instructions/home">Migration Registration Form</a></li>
+
+
+
+
+
+<li id="menu-item-940" class="menu-item">
+<a href="http://exam.cusat.ac.in/erp5/cusat/Cusat-Attendance-Shortage-Form/Instruction/home">Attendance Shortage Form</a></li>
+<li id="menu-item-940" class="menu-item">
+<a href="http://exam.cusat.ac.in/erp5/cusat/Cusat-Transfer-Form%20/home">College/Branch Transfer Form</a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</ul>
+</li>
+					
+<!-- another meun tab -->
+<li id="menu-item-117" class="menu-item"><a href="http://exam.cusat.ac.in/erp5/cusat/Cusat-Registration/Student%20Registration/Registration%20Form/form2#">View/Download</a>
+<ul class="sub-menu">
+
+<div class="show" style="display: none;">
+<li id="menu-item-940" class="menu-item">
+<a href="http://exam.cusat.ac.in/erp5/cusat/Cusat-Hall-Ticket/form1">Download Hall-Ticket</a></li>
+</div>
+<li id="menu-item-940" class="menu-item">
+<a href="http://exam.cusat.ac.in/erp5/cusat/Student-Information/form1">Student Information</a></li>
+
+<!--
+<li id="menu-item-940" class="menu-item">
+<a href="http://exam.cusat.ac.in/erp5/cusat/Cusat-Attendance/Student-Form1">Student Attendance</a></li>
+<div class="show1">
+
+<li id="menu-item-940" class="menu-item"><a href="">Result</a></li>
+</div> -->
+</ul>
+</li>
+					
+  
+<!-- another menu tab -->
+
+<li id="menu-item-117" class="menu-item"><a href="http://exam.cusat.ac.in/erp5/cusat/Cusat-Registration/Student%20Registration/Registration%20Form/form2#">PHD</a>
+<ul class="sub-menu">
+					
+<!--<li id="menu-item-940" class="menu-item">
+<a href="http://exam.cusat.ac.in/erp5/cusat/PHD/Student%20Registration/Instructions/home">Online Registration Form</a></li>
+
+<li id="menu-item-940" class="menu-item">
+<a href="http://exam.cusat.ac.in/erp5/cusat/PHD/student_Reregistration/Reregistration%20Form/form3">Ph.D Re-Registration Form</a></li>
+
+-->
+<li id="menu-item-940" class="menu-item">
+<a href="http://exam.cusat.ac.in/erp5/cusat/PHD/Request%20Forms/letter1">Request Form</a></li>
+<li id="menu-item-940" class="menu-item">
+<a href="http://exam.cusat.ac.in/erp5/cusat/PHD/Submission_synopsis/form0">Application for Synopsis Submission</a></li>
+
+<li id="menu-item-940" class="menu-item"><a href="http://exam.cusat.ac.in/erp5/cusat/Cusat-Registration/Student%20Registration/Registration%20Form/form2#">Results</a></li>
+</ul>
+</li>
+
+<!-- another pg tab					
+<li id="menu-item-117" class="menu-item"><a href="#">PG</a>
+<ul class="sub-menu">
+<li ><a href="#">PG Forms</a></li>
+</ul>
+</li>  
+ -->
+
+
+					</ul>
+			</div><!-- end #navTop -->
+</div><!-- end .mainwidth -->
+	</div><!-- #EndLibraryItem --><!-- end #topNavMenu -->
+
+
+
+
+ 
+
+<div id="breadcrumbs">
+		<div class="mainwidth"><!-- InstanceBeginEditable name="breadcrumbs" -->
+		  <!--<p> <span class="hide">You are here:</span> <a href="#">Home</a> &gt;</p>-->
+		<!-- InstanceEndEditable --></div>
+	</div>
+
+	<div id="wrapper" align="center">
+		<div id="main" class="mainwidth">
+
+			<p id="skiptargetholder"><a id="skiptarget" name="skiptarget" class="skip" tabindex="-1">&nbsp;</a></p>
+			<div id="content">
+				<div class="clearfix">
+					<div class="container">
+						<div class="page hentry">
+							<div class="entry-content"><!-- InstanceBeginEditable name="PageTitle" -->
+							 <h1> </h1>
+							<!-- InstanceEndEditable --><!-- InstanceBeginEditable name="RotatingBanner" -->
+						
+
+
+
+<style>
+.blink_me {
+    animation-name: blinker;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+
+    -webkit-animation-name: blinker;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count: infinite;
+}
+
+@-moz-keyframes blinker {  
+    0% { opacity: 1.0; }
+    50% { opacity: 0.0; }
+    100% { opacity: 1.0; }
+}
+
+@-webkit-keyframes blinker {  
+    0% { opacity: 1.0; }
+    50% { opacity: 0.0; }
+    100% { opacity: 1.0; }
+}
+
+@keyframes blinker {  
+    0% { opacity: 1.0; }
+    50% { opacity: 0.0; }
+    100% { opacity: 1.0; }
+}
+
+
+</style>
+
+
+
+
+
+
+<script>
+var x="2015/02/03 17:21:18.535 GMT+0530";
+var y=x.split('/');
+	$(function() {
+for (i = y[0]; i > 2012; i--)
+{
+    $('.yearpicker').append($('<option />').val(i).html(i));
+}
+           
+	   $("#age1" ).datepicker(
+	                 { dateFormat: 'yy/mm/dd', 
+	                   showAnim: 'slide', 
+	                   changeMonth: true, 
+	                   changeYear: true, 
+	                   yearRange: '2012:2014' 
+	                }
+
+
+	                );
+
+	 });
+	        
+    </script>
+
+
+
+<script type="text/javascript">
+
+$(document).ready(function(){
+        var list=[];
+        
+	          list.push('1/2012-13');
+	          list.push('127001');
+	          list.push('13EE2F3156');
+	          list.push('127005');
+	          list.push('13EE2F3120');
+	          list.push('13EE2P3121');
+	          list.push('13EE2P3122');
+	          list.push('127021');
+	          list.push('127023');
+	          list.push('127024');
+	          list.push('127025');
+	          list.push('127026');
+	          list.push('127027');
+	          list.push('127028');
+	          list.push('127029');
+	          list.push('127030');
+	          list.push('127031');
+	          list.push('127032');
+	          list.push('127033');
+	          list.push('127034');
+	          list.push('127035');
+	          list.push('127036');
+	          list.push('127037');
+	          list.push('127038');
+	          list.push('127039');
+	          list.push('127040');
+	          list.push('127041');
+	          list.push('127042');
+	          list.push('127043');
+	          list.push('127044');
+	          list.push('127045');
+	          list.push('127046');
+	          list.push('127047');
+	          list.push('127048');
+	          list.push('127049');
+	          list.push('127050');
+	          list.push('127051');
+	          list.push('127052');
+	          list.push('127053');
+	          list.push('127054');
+	          list.push('127055');
+	          list.push('127056');
+	          list.push('127057');
+	          list.push('127058');
+	          list.push('127059');
+	          list.push('127060');
+	          list.push('127061');
+	          list.push('CEK/162/2012');
+	          list.push('12368');
+	          list.push('12336');
+	          list.push('8/2012-13');
+	          list.push('7/2012-13');
+	          list.push('6/2012-13');
+	          list.push('5/2012-13');
+	          list.push('4/2012-13');
+	          list.push('3/2012-13');
+	          list.push('1133');
+	          list.push('CEK/064/2012');
+	          list.push('CEK/053/2012');
+	          list.push('CEK/088/2012');
+	          list.push('CEK/LE/12/2013');
+	          list.push('CEK/LE/08/2013');
+	          list.push('CEK/LE/07/2013');
+	          list.push('LLPG10');
+	          list.push('CEK/177/2012');
+	          list.push('CEK/178/2012');
+	          list.push('LLPG09');
+	          list.push('12/3199');
+	          list.push('12/3187');
+	          list.push('12/3152');
+	          list.push('LLPG00');
+	          list.push('LLPG03');
+	          list.push('LLPG05');
+	          list.push('LLPG06');
+	          list.push('LLPG11');
+	          list.push('LLPG12');
+	          list.push('LLPG13');
+	          list.push('LLPG14');
+	          list.push('LLPG16');
+	          list.push('LLPG17');
+	          list.push('LLPG18');
+	          list.push('LLPG19');
+	          list.push('LLPG20');
+	          list.push('LLPG21');
+	          list.push('LLPG22');
+	          list.push('LLPG23');
+	          list.push('LLPG24');
+	          list.push('LLPG25');
+	          list.push('LLPG26');
+	          list.push('LLPG27');
+	          list.push('LLPG29');
+	          list.push('LLPG30');
+	          list.push('LLPG28');
+	          list.push('LLPG31');
+	          list.push('LLPG32');
+	          list.push('LLPG15');
+	          list.push('856');
+	          list.push('857');
+	          list.push('858');
+	          list.push('859');
+	          list.push('860');
+	          list.push('861');
+	          list.push('863');
+	          list.push('864');
+	          list.push('866');
+	          list.push('867');
+	          list.push('868');
+	          list.push('869');
+	          list.push('871');
+	          list.push('873');
+	          list.push('874');
+	          list.push('875');
+	          list.push('876');
+	          list.push('877');
+	          list.push('878');
+	          list.push('879');
+	          list.push('880');
+	          list.push('881');
+	          list.push('882');
+	          list.push('883');
+	          list.push('884');
+	          list.push('885');
+	          list.push('886');
+	          list.push('887');
+	          list.push('888');
+	          list.push('889');
+	          list.push('890');
+	          list.push('891');
+	          list.push('892');
+	          list.push('893');
+	          list.push('894');
+	          list.push('896');
+	          list.push('897');
+	          list.push('898');
+	          list.push('899');
+	          list.push('1');
+	          list.push('CEK/102/2012');
+	          list.push('LLGR00');
+	          list.push('LLGR01');
+	          list.push('LLGR02');
+	          list.push('LLGR03');
+	          list.push('LLGR04');
+	          list.push('LLGR05');
+	          list.push('LLGR06');
+	          list.push('LLGR07');
+	          list.push('LLGR08');
+	          list.push('LLGR09');
+	          list.push('LLGR10');
+	          list.push('LLGR11');
+	          list.push('LLGR12');
+	          list.push('LLGR13');
+	          list.push('LLGR14');
+	          list.push('LLGR15');
+	          list.push('LLGR16');
+	          list.push('LLGR17');
+	          list.push('LLGR18');
+	          list.push('LLGR19');
+	          list.push('LLGR20');
+	          list.push('LLGR21');
+	          list.push('LLGR22');
+	          list.push('LLGR23');
+	          list.push('LLGR24');
+	          list.push('CEK/004/2012');
+	          list.push('LLGR25');
+	          list.push('LLGR26');
+	          list.push('LLGR27');
+	          list.push('LLGR29');
+	          list.push('LLGR30');
+	          list.push('LLGR31');
+	          list.push('LLGR32');
+	          list.push('LLGR33');
+	          list.push('LLGR34');
+	          list.push('LLGR35');
+	          list.push('LLGR36');
+	          list.push('LLGR37');
+	          list.push('LLGR38');
+	          list.push('LLGR39');
+	          list.push('LLGR40');
+	          list.push('LLGR41');
+	          list.push('LLGR42');
+	          list.push('LLGR43');
+	          list.push('LLGR44');
+	          list.push('LLGR45');
+	          list.push('1126');
+	          list.push('1093');
+	          list.push('CEK/164/2012');
+	          list.push('CEK/126/2012');
+	          list.push('1134');
+	          list.push('1130');
+	          list.push('1131');
+	          list.push('CEK/152/2012');
+	          list.push('12/3136');
+	          list.push('CEK/170/2012');
+	          list.push('CEK/NRI/06/2012');
+	          list.push('CEK/NRI/07/2012');
+	          list.push('CEK/023/2012');
+	          list.push('CEK/168/2012');
+	          list.push('CEK/173/2012');
+	          list.push('CEK/007/2012');
+	          list.push('CEK/010/2012');
+	          list.push('1092');
+	          list.push('CEK/033/2012');
+	          list.push('CEK/041/2012');
+	          list.push('CEK/019/2012');
+	          list.push('CEK/003/2012');
+	          list.push('CEK/109/2012');
+	          list.push('CEK/040/2012');
+	          list.push('CEK/029/2012');
+	          list.push('CEK/153/2012');
+	          list.push('CEK/072/2012');
+	          list.push('CEK/039/2012');
+	          list.push('CEK/048/2012');
+	          list.push('CEK/078/2012');
+	          list.push('CEK/159/2012');
+	          list.push('CEK/169/2012');
+	          list.push('CEK/038/2012');
+	          list.push('CEK/172/2012');
+	          list.push('CEK/044/2012');
+	          list.push('CEK/046/2012');
+	          list.push('CEK/030/2012');
+	          list.push('CEK/005/2012');
+	          list.push('CEK/143/2012');
+	          list.push('CEK/034/2012');
+	          list.push('CEK/NRI/09/2012');
+	          list.push('CEK/009/2012');
+	          list.push('CEK/118/2012');
+	          list.push('CEK/032/2012');
+	          list.push('CEK/018/2012');
+	          list.push('CEK/156/2012');
+	          list.push('CEK/028/2012');
+	          list.push('CEK/145/2012');
+	          list.push('CEK/175/2012');
+	          list.push('CEK/031/2012');
+	          list.push('CEK/024/2012');
+	          list.push('CEK/131/2012');
+	          list.push('CEK/017/2012');
+	          list.push('CEK/060/2012');
+	          list.push('CEK/042/2012');
+	          list.push('CEK/135/2012');
+	          list.push('CEK/015/2012');
+	          list.push('CEK/008/2012');
+	          list.push('CEK/006/2012');
+	          list.push('CEK/013/2012');
+	          list.push('CEK/020/2012');
+	          list.push('CEK/LE/05/2013');
+	          list.push('CEK/LE/02/2013');
+	          list.push('CEK/LE/13/2013');
+	          list.push('CEK/LE/01/2013');
+	          list.push('CEK/179/2012');
+	          list.push('1135');
+	          list.push('12/2012-14');
+	          list.push('30/2012-14');
+	          list.push('14/2012-14');
+	          list.push('17/2012-14');
+	          list.push('28/2012-14');
+	          list.push('9/2012-14');
+	          list.push('26/2012-14');
+	          list.push('16/2012-14');
+	          list.push('10/2012-14');
+	          list.push('31/2012-14');
+	          list.push('21/2012-14');
+	          list.push('8/2012-14');
+	          list.push('22/2012-14');
+	          list.push('2/2012-14');
+	          list.push('19/2012-14');
+	          list.push('5/2012-14');
+	          list.push('27/2012-14');
+	          list.push('25/2012-14');
+	          list.push('23/2012-14');
+	          list.push('13/2012-14');
+	          list.push('18/2012-14');
+	          list.push('15/2012-14');
+	          list.push('29/2012-14');
+	          list.push('20/2012-14');
+	          list.push('4/2012-14');
+	          list.push('6/2012-14');
+	          list.push('24/2012-14');
+	          list.push('1/M.Sc./2012');
+	          list.push('2/M.Sc./2012');
+	          list.push('3/M.Sc./2012');
+	          list.push('4/M.Sc./2012');
+	          list.push('5/M.Sc./2012');
+	          list.push('6/M.Sc./2012');
+	          list.push('7/M.Sc./2012');
+	          list.push('8/M.Sc./2012');
+	          list.push('9/M.Sc./2012');
+	          list.push('10/M.Sc./2012');
+	          list.push('11/M.Sc./2012');
+	          list.push('12/M.Sc./2012');
+	          list.push('13/M.Sc./2012');
+	          list.push('14/M.Sc./2012');
+	          list.push('15/M.Sc./2012');
+	          list.push('16/M.Sc./2012');
+	          list.push('17/M.Sc./2012');
+	          list.push('18/M.Sc./2012');
+	          list.push('19/M.Sc./2012');
+	          list.push('20/M.Sc./2012');
+	          list.push('21/M.Sc./2012');
+	          list.push('23/M.Sc./2012');
+	          list.push('24/M.Sc./2012');
+	          list.push('1132');
+	          list.push('416');
+	          list.push('417');
+	          list.push('418');
+	          list.push('419');
+	          list.push('420');
+	          list.push('421');
+	          list.push('422');
+	          list.push('423');
+	          list.push('424');
+	          list.push('425');
+	          list.push('426');
+	          list.push('427');
+	          list.push('428');
+	          list.push('429');
+	          list.push('430');
+	          list.push('431');
+	          list.push('432');
+	          list.push('433');
+	          list.push('CEK/133/2012');
+	          list.push('CEK/117/2012');
+	          list.push('CEK/123/2012');
+	          list.push('CEK/125/2012');
+	          list.push('CEK/139/2012');
+	          list.push('CEK/137/2012');
+	          list.push('CEK/120/2012');
+	          list.push('CEK/037/2012');
+	          list.push('CEK/127/2012');
+	          list.push('CEK/163/2012');
+	          list.push('CEK/165/2012');
+	          list.push('CEK/138/2012');
+	          list.push('CEK/130/2012');
+	          list.push('CEK/115/2012');
+	          list.push('CEK/174/2012');
+	          list.push('CEK/110/2012');
+	          list.push('CEK/140/2012');
+	          list.push('CEK/113/2012');
+	          list.push('CEK/026/2012');
+	          list.push('CEK/160/2012');
+	          list.push('CEK/112/2012');
+	          list.push('CEK/141/2012');
+	          list.push('CEK/107/2012');
+	          list.push('CEK/106/2012');
+	          list.push('CEK/114/2012');
+	          list.push('CEK/132/2012');
+	          list.push('CEK/136/2012');
+	          list.push('CEK/142/2012');
+	          list.push('CEK/128/2012');
+	          list.push('CEK/116/2012');
+	          list.push('CEK/LE/03/2013');
+	          list.push('CEK/LE/11/2013');
+	          list.push('208');
+	          list.push('209');
+	          list.push('210');
+	          list.push('211');
+	          list.push('212');
+	          list.push('213');
+	          list.push('214');
+	          list.push('215');
+	          list.push('216');
+	          list.push('217');
+	          list.push('218');
+	          list.push('219');
+	          list.push('220');
+	          list.push('221');
+	          list.push('222');
+	          list.push('223');
+	          list.push('224');
+	          list.push('1203131');
+	          list.push('1203109');
+	          list.push('1091');
+	          list.push('1203195');
+	          list.push('1203191');
+	          list.push('1203068');
+	          list.push('1203194');
+	          list.push('1203063');
+	          list.push('1203171');
+	          list.push('1203071');
+	          list.push('1203055');
+	          list.push('1203193');
+	          list.push('1203129');
+	          list.push('1203112');
+	          list.push('1203174');
+	          list.push('1203066');
+	          list.push('1203018');
+	          list.push('1203140');
+	          list.push('1203135');
+	          list.push('1203039');
+	          list.push('1203070');
+	          list.push('1203152');
+	          list.push('1203031');
+	          list.push('1203013');
+	          list.push('1203199');
+	          list.push('1203180');
+	          list.push('1203173');
+	          list.push('1203179');
+	          list.push('1203072');
+	          list.push('1203127');
+	          list.push('1203175');
+	          list.push('1203060');
+	          list.push('1203178');
+	          list.push('1203042');
+	          list.push('1203026');
+	          list.push('1203172');
+	          list.push('1303920');
+	          list.push('1303921');
+	          list.push('1303915');
+	          list.push('1302910');
+	          list.push('1303913');
+	          list.push('1303919');
+	          list.push('1303918');
+	          list.push('1303922');
+	          list.push('1303904');
+	          list.push('1303916');
+	          list.push('2/M.Tech./2012');
+	          list.push('3/M.Tech./2012');
+	          list.push('6/M.Tech./2012');
+	          list.push('7/M.Tech./2012');
+	          list.push('8/M.Tech./2012');
+	          list.push('11/M.Tech./2012');
+	          list.push('12/M.Tech./2012');
+	          list.push('C000453/CE(LET)2013');
+	          list.push('C000464/ME(LET)2013');
+	          list.push('4');
+	          list.push('6');
+	          list.push('7');
+	          list.push('8');
+	          list.push('9');
+	          list.push('11');
+	          list.push('12');
+	          list.push('13');
+	          list.push('14');
+	          list.push('15');
+	          list.push('16');
+	          list.push('17');
+	          list.push('18');
+	          list.push('19');
+	          list.push('20');
+	          list.push('21');
+	          list.push('22');
+	          list.push('23');
+	          list.push('24');
+	          list.push('25');
+	          list.push('26');
+	          list.push('27');
+	          list.push('28');
+	          list.push('29');
+	          list.push('30');
+	          list.push('403');
+	          list.push('404');
+	          list.push('405');
+	          list.push('406');
+	          list.push('407');
+	          list.push('408');
+	          list.push('409');
+	          list.push('410');
+	          list.push('411');
+	          list.push('412');
+	          list.push('413');
+	          list.push('414');
+	          list.push('415');
+	          list.push('416');
+	          list.push('417');
+	          list.push('418');
+	          list.push('419');
+	          list.push('420');
+	          list.push('421');
+	          list.push('422');
+	          list.push('423');
+	          list.push('424');
+	          list.push('425');
+	          list.push('426');
+	          list.push('427');
+	          list.push('428');
+	          list.push('429');
+	          list.push('430');
+	          list.push('431');
+	          list.push('432');
+	          list.push('433');
+	          list.push('434');
+	          list.push('435');
+	          list.push('436');
+	          list.push('437');
+	          list.push('438');
+	          list.push('439');
+	          list.push('440');
+	          list.push('441');
+	          list.push('443');
+	          list.push('444');
+	          list.push('445');
+	          list.push('446');
+	          list.push('447');
+	          list.push('448');
+	          list.push('449');
+	          list.push('450');
+	          list.push('451');
+	          list.push('452');
+	          list.push('453');
+	          list.push('454');
+	          list.push('455');
+	          list.push('2334');
+	          list.push('2252');
+	          list.push('2263');
+	          list.push('2273');
+	          list.push('2311');
+	          list.push('2312');
+	          list.push('2245');
+	          list.push('2314');
+	          list.push('2335');
+	          list.push('2235');
+	          list.push('2197');
+	          list.push('2258');
+	          list.push('2247');
+	          list.push('2244');
+	          list.push('2249');
+	          list.push('2259');
+	          list.push('2308');
+	          list.push('2309');
+	          list.push('2274');
+	          list.push('2240');
+	          list.push('2243');
+	          list.push('2253');
+	          list.push('2257');
+	          list.push('2270');
+	          list.push('2236');
+	          list.push('2256');
+	          list.push('2232');
+	          list.push('2239');
+	          list.push('2264');
+	          list.push('2255');
+	          list.push('2313');
+	          list.push('2237');
+	          list.push('2246');
+	          list.push('2207');
+	          list.push('2315');
+	          list.push('2248');
+	          list.push('2286');
+	          list.push('2316');
+	          list.push('2276');
+	          list.push('2272');
+	          list.push('2271');
+	          list.push('2262');
+	          list.push('2250');
+	          list.push('2241');
+	          list.push('2261');
+	          list.push('2260');
+	          list.push('12098');
+	          list.push('2355');
+	          list.push('2347');
+	          list.push('2351');
+	          list.push('2348');
+	          list.push('2/2012-13');
+	          list.push('402');
+	          list.push('C000452/ME(LET)/2013');
+	          list.push('C000468/ME(LET)2013');
+	          list.push('C000454/ME(LET)2013');
+	          list.push('C000460/CE(LET)2013');
+	          list.push('C000457/CE(LET)2013');
+	          list.push('1202201');
+	          list.push('1202190');
+	          list.push('1202008');
+	          list.push('1202015');
+	          list.push('1202034');
+	          list.push('1202143');
+	          list.push('1202009');
+	          list.push('1202163');
+	          list.push('1202078');
+	          list.push('1202011');
+	          list.push('1202168');
+	          list.push('1202126');
+	          list.push('1202017');
+	          list.push('1202023');
+	          list.push('1202045');
+	          list.push('1201115');
+	          list.push('1202033');
+	          list.push('1202024');
+	          list.push('1202012');
+	          list.push('1202049');
+	          list.push('1202079');
+	          list.push('1202065');
+	          list.push('1202016');
+	          list.push('1202187');
+	          list.push('1202035');
+	          list.push('1202029');
+	          list.push('1202077');
+	          list.push('1202080');
+	          list.push('1202196');
+	          list.push('1202097');
+	          list.push('1202133');
+	          list.push('1202020');
+	          list.push('1202197');
+	          list.push('1202203');
+	          list.push('1202036');
+	          list.push('1202014');
+	          list.push('1202159');
+	          list.push('1201105');
+	          list.push('1202164');
+	          list.push('1202176');
+	          list.push('1202182');
+	          list.push('1202186');
+	          list.push('1202148');
+	          list.push('1202006');
+	          list.push('1202161');
+	          list.push('1202149');
+	          list.push('1202192');
+	          list.push('1202162');
+	          list.push('1202032');
+	          list.push('1302909');
+	          list.push('1302911');
+	          list.push('1302914');
+	          list.push('1302903');
+	          list.push('1302912');
+	          list.push('1302907');
+	          list.push('1302901');
+	          list.push('1302906');
+	          list.push('C000061/CE/2012');
+	          list.push('442');
+	          list.push('Y12CS001');
+	          list.push('Y12CS002');
+	          list.push('Y12CS004');
+	          list.push('Y12CS005');
+	          list.push('Y12CS006');
+	          list.push('Y12CS008');
+	          list.push('Y12CS009');
+	          list.push('Y12CS010');
+	          list.push('Y12CS013');
+	          list.push('Y12CS014');
+	          list.push('Y12CS015');
+	          list.push('Y12CS016');
+	          list.push('Y12CS017');
+	          list.push('Y12CS018');
+	          list.push('Y12CS007');
+	          list.push('Y12CS019');
+	          list.push('Y12CS021');
+	          list.push('Y12CS024');
+	          list.push('Y12CS025');
+	          list.push('Y12CS027');
+	          list.push('Y12CS028');
+	          list.push('Y12CS029');
+	          list.push('Y12CS020');
+	          list.push('Y12CS030');
+	          list.push('Y12CS032');
+	          list.push('Y12CS033');
+	          list.push('Y12CS012');
+	          list.push('Y12CS047');
+	          list.push('Y12CS048');
+	          list.push('Y12CS003');
+	          list.push('Y12CS059');
+	          list.push('C000062/CE/2012');
+	          list.push('C000063/CE/2012');
+	          list.push('C000065/CE/2012');
+	          list.push('C000066/CE/2012');
+	          list.push('C000068/CE/2012');
+	          list.push('C000069/CE/2012');
+	          list.push('C000071/CE/2012');
+	          list.push('C000072/CE/2012');
+	          list.push('C000073/CE/2012');
+	          list.push('C000466/CSE(LET)2013');
+	          list.push('C000471/CSE(LET)2013');
+	          list.push('C000458/CSE(LET)2013');
+	          list.push('C000462/CSE(LET)2013');
+	          list.push('C000459/CSE(LET)2013');
+	          list.push('C000461/EEE(LET)2013');
+	          list.push('C000465/ECE(LET)2013');
+	          list.push('C000467/ECE(LET)2013');
+	          list.push('C000469/ECE(LET)/201');
+	          list.push('C000470/ECE(LET)2013');
+	          list.push('C000463/ECE(LET)/201');
+	          list.push('C000001/ME/2012');
+	          list.push('C000002/ME/2012');
+	          list.push('C000003/ME/2012');
+	          list.push('C000004/ME/2012');
+	          list.push('C000005/ME/2012');
+	          list.push('C000006/ME/2012');
+	          list.push('C000009/ME/2012');
+	          list.push('C000010/ME/2012');
+	          list.push('C000011/ME/2012');
+	          list.push('C000012/ME/2012');
+	          list.push('C000013/ME/2012');
+	          list.push('C000015/ME/2012');
+	          list.push('C000018/ME/2012');
+	          list.push('C000019/ME/2012');
+	          list.push('C000020/ME/2012');
+	          list.push('C000021/ME/2012');
+	          list.push('C000022/ME/2012');
+	          list.push('C000023/ME/2012');
+	          list.push('C000024/ME/2012');
+	          list.push('C000025/ME/2012');
+	          list.push('C000026/ME/2012');
+	          list.push('C000028/ME/2012');
+	          list.push('C000029/ME/2012');
+	          list.push('C000031/ME/2012');
+	          list.push('C000033/ME/2012');
+	          list.push('C000034/ME/2012');
+	          list.push('C000035/ME/2012');
+	          list.push('C000036/ME/2012');
+	          list.push('C000037/ME/2012');
+	          list.push('C000039/ME/2012');
+	          list.push('C000040/ME/2012');
+	          list.push('C000041/ME/2012');
+	          list.push('C000043/ME/2012');
+	          list.push('C000044/ME/2012');
+	          list.push('C000045/ME/2012');
+	          list.push('C000046/ME/2012');
+	          list.push('C000047/ME/2012');
+	          list.push('C000048/ME/2012');
+	          list.push('C000049/ME/2012');
+	          list.push('C000050/ME/2012');
+	          list.push('C000051/ME/2012');
+	          list.push('C000052/ME/2012');
+	          list.push('C000053/ME/2012');
+	          list.push('C000054/ME/2012');
+	          list.push('C000055/ME/2012');
+	          list.push('C000056/ME/2012');
+	          list.push('C000057/ME/2012');
+	          list.push('C000058/ME/2012');
+	          list.push('C000059/ME/2012');
+	          list.push('C000060/ME/2012');
+	          list.push('C000075/CE/2012');
+	          list.push('C000076/CE/2012');
+	          list.push('C000077/CE/2012');
+	          list.push('C000080/CE/2012');
+	          list.push('C000081/CE/2012');
+	          list.push('C000082/CE/2012');
+	          list.push('C000083/CE/2012');
+	          list.push('C000084/CE/2012');
+	          list.push('C000085/CE/2012');
+	          list.push('C000086/CE/2012');
+	          list.push('C000087/CE/2012');
+	          list.push('C000088/CE/2012');
+	          list.push('C000089/CE/2012');
+	          list.push('CEK/166/2012');
+	          list.push('C000090/CE/2012');
+	          list.push('C000091/CE/2012');
+	          list.push('C000092/CE/2012');
+	          list.push('C000093/CE/2012');
+	          list.push('Y12CS034');
+	          list.push('Y12CS035');
+	          list.push('Y12CS036');
+	          list.push('Y12CS037');
+	          list.push('Y12CS038');
+	          list.push('Y12CS039');
+	          list.push('Y12CS040');
+	          list.push('Y12CS041');
+	          list.push('Y12CS042');
+	          list.push('Y12CS044');
+	          list.push('Y12CS043');
+	          list.push('Y12CS045');
+	          list.push('Y12CS046');
+	          list.push('Y12CS049');
+	          list.push('Y12CS050');
+	          list.push('Y12CS051');
+	          list.push('Y12CS052');
+	          list.push('Y12CS053');
+	          list.push('Y12CS054');
+	          list.push('Y12CS055');
+	          list.push('Y12CS056');
+	          list.push('Y12CS057');
+	          list.push('Y12CS058');
+	          list.push('Y12CS060');
+	          list.push('Y12CS061');
+	          list.push('Y12CS063');
+	          list.push('Y12CS023');
+	          list.push('Y11CS022');
+	          list.push('C000094/CE/2012');
+	          list.push('C000264/ME/2012');
+	          list.push('C000226/EEE/2012');
+	          list.push('C000227/EEE/2012');
+	          list.push('C000229/EEE/2012');
+	          list.push('C000230/EEE/2012');
+	          list.push('C000233/EEE/2012');
+	          list.push('C000234/EEE/2012');
+	          list.push('C000235/EEE/2012');
+	          list.push('C000236/EEE/2012');
+	          list.push('C000237/EEE/2012');
+	          list.push('C000238/EEE/2012');
+	          list.push('C000240/EEE/2012');
+	          list.push('C000241/EEE/2012');
+	          list.push('C000242/EEE/2012');
+	          list.push('C000243/EEE/2012');
+	          list.push('C000244/EEE/2012');
+	          list.push('C000095/CE/2012');
+	          list.push('C000096/CE/2012');
+	          list.push('C000097/CE/2012');
+	          list.push('C000098/CE/2012');
+	          list.push('C000245/EEE/2012');
+	          list.push('C000246/EEE/2012');
+	          list.push('C000247/EEE/2012');
+	          list.push('C000248/EEE/2012');
+	          list.push('C000249/EEE/2012');
+	          list.push('C000250/EEE/2012');
+	          list.push('C000099/CE/2012');
+	          list.push('C000102/CE/2012');
+	          list.push('C000103/CE/2012');
+	          list.push('C000104/CE/2012');
+	          list.push('C000105/CE/2012');
+	          list.push('C000106/CE/2012');
+	          list.push('C000107/CE/2012');
+	          list.push('C000108/CE/2012');
+	          list.push('C000251/EEE/2012');
+	          list.push('C000252/EEE/2012');
+	          list.push('C000253/EEE/2012');
+	          list.push('C000254/EEE/2012');
+	          list.push('C000255/EEE/2012');
+	          list.push('C000109/CE/2012');
+	          list.push('C000112/CE/2012');
+	          list.push('C000114/CE/2012');
+	          list.push('C000115/CE/2012');
+	          list.push('C000116/CE/2012');
+	          list.push('C000117/CE/2012');
+	          list.push('C000256/EEE/2012');
+	          list.push('C000258/EEE/2012');
+	          list.push('C000259/EEE/2012');
+	          list.push('C000260/EEE/2012');
+	          list.push('C000261/EEE/2012');
+	          list.push('C000118/CE/2012');
+	          list.push('C000119/CE/2012');
+	          list.push('C000122/ECE/2012');
+	          list.push('1');
+	          list.push('2');
+	          list.push('3');
+	          list.push('4');
+	          list.push('5');
+	          list.push('6');
+	          list.push('C000177/CSE/2012');
+	          list.push('C000176/CSE/2012');
+	          list.push('C000127/ECE/2012 ');
+	          list.push('C000128/ECE/2012 ');
+	          list.push('C000129/ECE/2012');
+	          list.push('C000131/ECE/2012');
+	          list.push('C000132/ECE/2012');
+	          list.push('C000133/ECE/2012');
+	          list.push('CEK/085/2012');
+	          list.push('CEK/077/2012');
+	          list.push('1201189');
+	          list.push('1201038');
+	          list.push('1201084');
+	          list.push('1203154');
+	          list.push('1201098');
+	          list.push('1201100');
+	          list.push('1201118');
+	          list.push('1201104');
+	          list.push('1201091');
+	          list.push('1201106');
+	          list.push('C000178/CSE/2012');
+	          list.push('2101');
+	          list.push('2281');
+	          list.push('C000179/CSE/2012');
+	          list.push('1201110');
+	          list.push('1201088');
+	          list.push('1201120');
+	          list.push('1201114');
+	          list.push('1201145');
+	          list.push('1202200');
+	          list.push('1201037');
+	          list.push('1201019');
+	          list.push('1201005');
+	          list.push('1201144');
+	          list.push('2290');
+	          list.push('C000180/CSE/2012');
+	          list.push('2282');
+	          list.push('2279');
+	          list.push('2294');
+	          list.push('2324');
+	          list.push('2336');
+	          list.push('C000181/CSE/2012');
+	          list.push('2289');
+	          list.push('2337');
+	          list.push('2280');
+	          list.push('2302');
+	          list.push('2301');
+	          list.push('2300');
+	          list.push('2328');
+	          list.push('2329');
+	          list.push('2331');
+	          list.push('2330');
+	          list.push('2285');
+	          list.push('2349');
+	          list.push('C000134/ECE/2012');
+	          list.push('C000183/CSE/2012');
+	          list.push('2317');
+	          list.push('C000185/CSE/2012');
+	          list.push('2200');
+	          list.push('2339');
+	          list.push('2217');
+	          list.push('C000186/CSE/2012');
+	          list.push('2333');
+	          list.push('C000187/CSE/2012');
+	          list.push('C000188/CSE/2012');
+	          list.push('C000189/CSE/2012');
+	          list.push('C000190/CSE/2012');
+	          list.push('2211');
+	          list.push('C000191/CSE/2012');
+	          list.push('2206');
+	          list.push('2212');
+	          list.push('2319');
+	          list.push('2195');
+	          list.push('C000192/CSE/2012');
+	          list.push('2296');
+	          list.push('C000193/CSE/2012');
+	          list.push('2225');
+	          list.push('2321');
+	          list.push('2199');
+	          list.push('2192');
+	          list.push('2227');
+	          list.push('2214');
+	          list.push('C000194/CSE/2012');
+	          list.push('12363');
+	          list.push('2189');
+	          list.push('Y12CS026');
+	          list.push('Y12CS022');
+	          list.push('Y12CS011');
+	          list.push('Y12CS062');
+	          list.push('Y12CS031');
+	          list.push('2188');
+	          list.push('C000195/CSE/2012');
+	          list.push('C000196/CSE/2012');
+	          list.push('2223');
+	          list.push('2209');
+	          list.push('2204');
+	          list.push('2325');
+	          list.push('C000197/CSE/2012');
+	          list.push('2213');
+	          list.push('2304');
+	          list.push('2298');
+	          list.push('2203');
+	          list.push('C000198/CSE/2012');
+	          list.push('2320');
+	          list.push('2201');
+	          list.push('2205');
+	          list.push('C000199/CSE/2012');
+	          list.push('2191');
+	          list.push('2208');
+	          list.push('2215');
+	          list.push('2194');
+	          list.push('2288');
+	          list.push('C000200/CSE/2012');
+	          list.push('2224');
+	          list.push('2338');
+	          list.push('2198');
+	          list.push('2210');
+	          list.push('2216');
+	          list.push('2230');
+	          list.push('2226');
+	          list.push('2196');
+	          list.push('2220');
+	          list.push('2322');
+	          list.push('2354');
+	          list.push('2342');
+	          list.push('2353');
+	          list.push('2549');
+	          list.push('2550');
+	          list.push('2356');
+	          list.push('C000201/CSE/2012');
+	          list.push('C000202/CSE/2012');
+	          list.push('1517');
+	          list.push('1539');
+	          list.push('1439');
+	          list.push('1525');
+	          list.push('1520');
+	          list.push('1085');
+	          list.push('1086');
+	          list.push('1087');
+	          list.push('1088');
+	          list.push('13M0135');
+	          list.push('13M0150');
+	          list.push('1437');
+	          list.push('1436');
+	          list.push('1508');
+	          list.push('1505');
+	          list.push('13M0128');
+	          list.push('13M0154');
+	          list.push('13M0151');
+	          list.push('1515');
+	          list.push('1507');
+	          list.push('13M0141');
+	          list.push('1516');
+	          list.push('1511');
+	          list.push('1506');
+	          list.push('1438');
+	          list.push('1510');
+	          list.push('1513');
+	          list.push('1083');
+	          list.push('1078');
+	          list.push('1079');
+	          list.push('1080');
+	          list.push('1081');
+	          list.push('1082');
+	          list.push('C000203/CSE/2012');
+	          list.push('C000204/CSE/2012');
+	          list.push('C000206/CSE/2012');
+	          list.push('CEK/NRI/02/2012');
+	          list.push('CEK/080/2012');
+	          list.push('CEK/066/2012');
+	          list.push('12/2931');
+	          list.push('12/3162');
+	          list.push('12/3169');
+	          list.push('12/3175');
+	          list.push('CEK/NRI/05/2012');
+	          list.push('12/3144');
+	 //alert(list);
+	$("#adm_no1").click(function(){
+
+
+
+             var adm_no1=$("#adm_no2").val();
+
+               if(adm_no1 == '' || adm_no1 == NaN){
+		  alert('please enter your admission number');
+		  return false;
+		}
+               
+             /* else if($.inArray(adm_no1.toString(), list) == -1){
+                alert('This admission number does not exist');
+                return false;
+
+               }*/
+               else {
+               
+               return true;
+
+               }
+               
+		
+        });
+});
+</script>
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+$(function() {
+blinkeffect('#txtblnk');
+})
+function blinkeffect(selector) {
+$(selector).fadeOut('slow', function() {
+$(this).fadeIn('slow', function() {
+blinkeffect(this);
+});
+});
+}
+</script>
+
+
+<h2><font color="darkred">Student Registration Form</font></h2>
+
+
+<!--
+
+
+<h2 id="txtblnk"><font color=darkred>Help for PG,M.Tech,MCA,M.Sc/M.Phil Students(Must read before filling the step 1)</font></h2>
+
+<table>
+<tr><th>Sl.No</th><td>Course type/Branch Name</td><td>Degree</td><td>College/Department</td><td>Academic Month/Year</td></tr>
+<tr><td>1</td><th>(3 years)</th><th>LLB</th><th>School of Legal Studies</th><th>July/2014</th></tr>
+<tr><td>2</td><th>(5 years)</th><th>LLM(IPR)Ph.D</th><th>Inter University Centre for Intellectual Property Rights Studies</th><th>July/2014</th></tr>
+<tr><td>3</td><th>Applied Chemistry</th><th>M.Sc</th><th>Department of Applied Chemistry</th><th>July/2012</th></tr>
+<tr><td>4</td><th>Applied Economics</th><th>M.A</th><th>Department of Applied Economics</th><th>July/2014</th></tr>
+<tr><td>5</td><th>Atmospheric Sciences</th><th>M.Tech</th><th>Department of Atmospheric Sciences</th><th>July/2013</th></tr>
+<tr><td>6</td><th>Bio-Polymer Science</th><th>M.Sc</th><th>Centre for Bio-Polymer Science and Technology</th><th>July/2014</th></tr>
+<tr><td>7</td><th>Biotechnology</th><th>M.Sc</th><th>Department of Bio Technology</th><th>July/2012</th></tr>
+<tr><td>8</td><th>Chemistry</th><th>M.Phil</th><th>Department of Applied Chemistry</th><th>July/2012</th></tr>
+<tr><td>9</td><th>Civil Engineering(Geotechnical Engineering)</th><th>M.Tech</th><th>School of Engineering, Trikkakara</th><th>July/2014</th></tr>
+<tr><td>10</td><th>Commerce</th><th>M.Phil</th><th>School Of Management Studies</th><th>July/2014</th></tr>
+<tr><td>11</td><th>Computational Science</th><th>M.Sc</th><th>Indian Institute of Information Technology and Management</th><th>July/2014</th></tr>
+<tr><td>12</td><th>Computer & Information Science</th><th>M.Tech</th><th>Department of Computer Science</th><th>July/2012</th></tr>
+<tr><td>13</td><th>Computer Aided Structural Analysis & Design</th><th>M.Tech</th><th>Department of Ship Technology</th><th>July/2014</th></tr>
+<tr><td>14</td><th>Computer and Informatic Security</th><th>M.Sc</th><th>Indian Institute of Information Technology and Management</th><th>July/2014</th></tr>
+<tr><td>15</td><th>Computer Science</th><th>M.Phil</th><th>Indian Institute of Information Technology and Management</th><th>July/2014</th></tr>
+<tr><td>16</td><th>Computer Science & Engineering (Specialisation: Network Computing)</th><th>M.Tech</th><th>Toc-H Institute of Science and Technology</th><th>July/2014</th></tr>
+<tr><td>17</td><th>Computer Science(Computer & Information Science)</th><th>M.Tech</th><th>Department of Computer Science</th><th>July/2014</th></tr>
+<tr><td>18</td><th>Computer Science(Image Processing)</th><th>M.Tech</th><th>College of Engineering, Chengannur</th><th>July/2014</th></tr>
+<tr><td>19</td><th>Construction Engineering and Management</th><th>M.Tech</th><th>Toc-H Institute of Science and Technology</th><th>July/2014</th></tr>
+<tr><td>20</td><th>Cyber Forensic and Information Security</th><th>M.Tech</th><th>College of Engineering, Kallooppara</th><th>July/2012</th></tr>
+<tr><td>21</td><th>Cyber Forensics and Information Security</th><th>M.Tech</th><th>ER & DCI Institute of Technology</th><th>July/2014</th></tr>
+<tr><td>22</td><th>Data Security</th><th>M.Tech</th><th>Toc-H Institute of Science and Technology</th><th>July/2012</th></tr>
+<tr><td>23</td><th>Ecological Informatics</th><th>M.Phil</th><th>Indian Institute of Information Technology and Management</th><th>July/2014</th></tr>
+<tr><td>24</td><th>Electrical & Electronics Engineering</th><th>select</th><th>College of Engineering, Perumon</th><th>July/2014</th></tr>
+<tr><td>25</td><th>Electronic Science</th><th>M.Sc</th><th>Department of Electronics</th><th>July/2013</th></tr>
+<tr><td>26</td><th>Electronics</th><th>M.Tech</th><th>Department of Electronics</th><th>July/2013</th></tr>
+<tr><td>27</td><th>Electronics with Specialization in VLSI & Embedded Systems</th><th>M.Tech</th><th>Toc-H Institute of Science and Technology</th><th>July/2014</th></tr>
+<tr><td>28</td><th>Electronics with Specialization in Wireless technology</th><th>M.Tech</th><th>School of Engineering, Trikkakara</th><th>July/2014</th></tr>
+<tr><td>29</td><th>Electronics(Signal Processing)</th><th>M.Tech</th><th>College of Engineering, Thalassery</th><th>July/2014</th></tr>
+<tr><td>30</td><th>Engineering Statistics</th><th>M.Tech</th><th>Department of Statistics</th><th>July/2014</th></tr>
+<tr><td>31</td><th>Environmental Technology(Environmental Biotechnology)</th><th>M.Sc</th><th>School of Environmental Studies</th><th>July/2014</th></tr>
+<tr><td>32</td><th>Environmental Technology(Environmental Engineering)</th><th>M.Sc</th><th>School of Environmental Studies</th><th>July/2014</th></tr>
+<tr><td>33</td><th>Fisheries Science</th><th>M.Phil</th><th>School of Industrial Fisheries</th><th>July/2013</th></tr>
+<tr><td>34</td><th>Fisheries Science(Nautical Science)</th><th>B.F.Sc</th><th>Central Institute of Fisheries,Nautical & Engineering Training</th><th>July/2013</th></tr>
+<tr><td>35</td><th>French</th><th>Certificate in</th><th>Department of English and Foreign Languages</th><th>July/2014</th></tr>
+<tr><td>36</td><th>Full-Time</th><th>MCA</th><th>Department of Computer Applications</th><th>July/2012</th></tr>
+<tr><td>37</td><th>Geo Informatics</th><th>M.Sc</th><th>Indian Institute of Information Technology and Management</th><th>July/2014</th></tr>
+<tr><td>38</td><th>German</th><th>Certificate in</th><th>Department of English and Foreign Languages</th><th>July/2014</th></tr>
+<tr><td>39</td><th>Health Safety and Environment Management</th><th>M.Tech</th><th>School of Engineering, Trikkakara</th><th>July/2014</th></tr>
+<tr><td>40</td><th>Hindi</th><th>M.Phil</th><th>Department of Hindi</th><th>July/2014</th></tr>
+<tr><td>41</td><th>Hindi Language and Literature</th><th>M.A</th><th>Department of Hindi</th><th>July/2014</th></tr>
+<tr><td>42</td><th>Hons.</th><th>B.B.A. LL.B.</th><th>School of Legal Studies</th><th>July/2012</th></tr>
+<tr><td>43</td><th>Hydrochemistry</th><th>M.Sc</th><th>Department of Chemical Ocenography</th><th>July/2012</th></tr>
+<tr><td>44</td><th>Industrial Catalysis</th><th>M.Tech</th><th>Department of Applied Chemistry</th><th>July/2012</th></tr>
+<tr><td>45</td><th>Industrial Fisheries</th><th>M.Sc</th><th>School of Industrial Fisheries</th><th>July/2013</th></tr>
+<tr><td>46</td><th>Information Technology</th><th>M.Sc</th><th>Indian Institute of Information Technology and Management</th><th>July/2014</th></tr>
+<tr><td>47</td><th>Information Technology with specialisation in Software Systems</th><th>M.Tech</th><th>School of Engineering, Trikkakara</th><th>July/2014</th></tr>
+<tr><td>48</td><th>Instrumentation</th><th>M.Sc</th><th>Department of Instrumentation</th><th>July/2014</th></tr>
+<tr><td>49</td><th>International Business</th><th>M. B. A.</th><th>School Of Management Studies</th><th>July/2014</th></tr>
+<tr><td>50</td><th>Italian</th><th>Certificate in</th><th>Department of English and Foreign Languages</th><th>July/2014</th></tr>
+<tr><td>51</td><th>Life Sciences</th><th>M.Phil</th><th>Department of Marine Biology,Microbiology and Biochemistry</th><th>October/2013</th></tr>
+<tr><td>52</td><th>LL.M</th><th>P.G</th><th>School of Legal Studies</th><th>July/2012</th></tr>
+<tr><td>53</td><th>Marine Biology</th><th>M.Sc</th><th>Department of Marine Biology,Microbiology and Biochemistry</th><th>July/2012</th></tr>
+<tr><td>54</td><th>Marine Biotechnology</th><th>M.Tech</th><th>School of Environmental Studies</th><th>July/2014</th></tr>
+<tr><td>55</td><th>Marine Chemistry</th><th>M.Phil</th><th>Department of Chemical Ocenography</th><th>November/2013</th></tr>
+<tr><td>56</td><th>Marine Engineering</th><th>M.Tech</th><th>Kunjali Marakkar School of Marine Engineering</th><th>July/2014</th></tr>
+<tr><td>57</td><th>Marine Geology</th><th>M.Sc</th><th>Department of Marine Geology and Geo Physics</th><th>July/2012</th></tr>
+<tr><td>58</td><th>Marine Geophysics</th><th>M.Sc</th><th>Department of Marine Biology,Microbiology and Biochemistry</th><th>July/2012</th></tr>
+<tr><td>59</td><th>Masters in Business Adminisatration</th><th>M. B. A.</th><th>Bhavans Royal Institute Of Management, Ernakulam</th><th>July/2014</th></tr>
+<tr><td>60</td><th>Mathematics</th><th>M.Sc</th><th>Department of Mathematics</th><th>July/2014</th></tr>
+<tr><td>61</td><th>Mechanical Engineering (Manufacturing Systems Management)</th><th>M.Tech</th><th>College of Engineering, Thalassery</th><th>July/2014</th></tr>
+<tr><td>62</td><th>Mechanical Engineering(Energy Management)</th><th>M.Tech</th><th>Model Engineering College</th><th>July/2014</th></tr>
+<tr><td>63</td><th>Mechanical Engineering(Thermal Engineering)</th><th>M.Tech</th><th>College of Engineering, Adoor</th><th>July/2014</th></tr>
+<tr><td>64</td><th>Meteorology</th><th>M.Sc</th><th>Department of Atmospheric Sciences</th><th>July/2012</th></tr>
+<tr><td>65</td><th>Ocean Technology</th><th>M.Tech</th><th>Department of Physical Oceanography</th><th>July/2013</th></tr>
+<tr><td>66</td><th>Oceanography</th><th>M.Sc</th><th>Department of Physical Oceanography</th><th>July/2013</th></tr>
+<tr><td>67</td><th>Opto Electronics & Communication Systems</th><th>M.Tech</th><th>Sarabhai Institute Of Science and Technology</th><th>July/2014</th></tr>
+<tr><td>68</td><th>Opto-Electronics and Laser Technology</th><th>M.Tech</th><th>International School of Photonics</th><th>July/2013</th></tr>
+<tr><td>69</td><th>Part-time</th><th>M. B. A.</th><th>School Of Management Studies</th><th>July/2014</th></tr>
+<tr><td>70</td><th>Photonics</th><th>M.Sc</th><th>International School of Photonics</th><th>July/2013</th></tr>
+<tr><td>71</td><th>Physics</th><th>M.Phil</th><th>Department of Physics</th><th>July/2012</th></tr>
+<tr><td>72</td><th>Polymer Technology</th><th>M.Tech</th><th>Department of Polymer Science & Rubber Technology</th><th>August/2014</th></tr>
+<tr><td>73</td><th>Power Electronics</th><th>M.Tech</th><th>Toc-H Institute of Science and Technology</th><th>July/2014</th></tr>
+<tr><td>74</td><th>Seafood Safety and Trade</th><th>M.F.Sc</th><th>School of Industrial Fisheries</th><th>July/2013</th></tr>
+<tr><td>75</td><th>Signal Processing</th><th>M.Tech</th><th>College of Engineering, Poonjar</th><th>July/2012</th></tr>
+<tr><td>76</td><th>Software Engineering</th><th>M.Tech</th><th>Department of Computer Science</th><th>July/2012</th></tr>
+<tr><td>77</td><th>Software Systems</th><th>M.Tech</th><th>School of Engineering, Trikkakara</th><th>July/2014</th></tr>
+<tr><td>78</td><th>Statistics</th><th>M.Sc</th><th>Department of Statistics</th><th>July/2012</th></tr>
+<tr><td>79</td><th>Translation and Functional Hindi</th><th>Post Graduate Diploma in</th><th>Department of Hindi</th><th>July/2014</th></tr>
+<tr><td>80</td><th>Travel & Tourism</th><th>M. B. A.</th><th>School Of Management Studies</th><th>July/2014</th></tr>
+<tr><td>81</td><th>VLSI & Embedded System</th><th>M.Tech</th><th>College of Engineering, Munnar</th><th>July/2012</th></tr>
+<tr><td>82</td><th>VLSI and Embedded Systems</th><th>M.Tech</th><th>ER & DCI Institute of Technology</th><th>July/2014</th></tr>
+<tr><td>83</td><th>VLSI Design & Embedded System</th><th>M.Tech</th><th>College of Engineering, Chengannur</th><th>December/2014</th></tr>
+<tr><td>84</td><th>Wireless Technology</th><th>M.Tech</th><th>Toc-H Institute of Science and Technology</th><th>July/2014</th></tr>
+</table>
+
+
+-->
+
+<hr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+$(function() {
+    $(".show2").click(function() {
+        $(this).next("div").toggle("slow");
+    });
+});
+
+</script>
+
+<div align="right">
+<button class="show2" width="50px" height="40px" style="background:#AD0505;color:white">Instruction</button>
+
+<div style="display: none">
+
+<h2><u>Student Registration Instructions</u></h2>
+
+
+<table border="1">
+
+            <tbody><tr><td>(1)</td><td> In Step 1, Your will find the following columns ie., Enter Admission Number	
+Enter Security Code,	
+College Name. So Enter valid admission number and security code which is sent to you mail id.
+</td></tr>
+            <tr><td>(2)</td><td> In Step 2, 1-9 rows come by default according to your admission number which is entered by your college/department. 
+Now you have to enter from 10-32 rows ie.,
+10	Degree Type*,	
+11	Eligibility Qualification*,	
+12	Gender,
+13	Nationality*,	
+14	Current Address*,	 
+15	Permanent Address*,
+16	Phone Number,
+17	Mobile Number*	,
+18	Email Address*	,
+19	Father/Guardian Name*,	 
+20	Father/Guardian Occupation*,	
+21	Annual Income*	,
+22	Religion/Community*,
+23	Caste*,	
+24	Reservation*	,
+25	Special Reservation*	,
+26	Mother Tongue	,
+27	Last Highest Qualification Details*(University/Board Name,Registration/Enrollment Number,Passed Year), 
+28	Secondary School Details*(School Name,Certificate Number,Passed Year) ,
+29	Aadhaar Number*	,
+30	Bank Name,	
+31	Bank Account Number	,
+32	Bank IFSC Code	.</td></tr>
+            <tr><td>(3)</td><td> In step 3, it is for cross check the information which you are entered in step 2. If any mistake press edit button and correct the respective row according to you records</td></tr>
+            <tr><td>(4)</td><td> In step 4 ,you have to upload the photo and signature.
+</td></tr>
+            <tr><td>(5)</td><td> Instruction for Upload Photo:
+-The minimum dimensions are 120 pixels (width) x 150 pixels (height).
+-The maximum dimensions are 400 pixels (width) x 550 pixels (height),
+
+</td></tr>
+            <tr><td>(6)</td><td> Instruction for Signature Upload Photo:
+
+Signature 
+-The minimum dimensions are 120 pixels (width) x 10 pixels (height).
+-The maximum dimensions are 400 pixels (width) x 250 pixels (height)
+</td></tr>
+ </tbody></table>
+
+
+</div>
+</div>
+<form action="http://exam.cusat.ac.in/erp5/cusat/Cusat-Registration/Student%20Registration/Registration%20Form/form3" method="post">
+ <h3>Step 1</h3> 
+<table border="1" width="100%">
+<tbody><tr><th>1.</th><th>Enter Admission Number </th><td><input size="30" required="" id="adm_no2" type="text" name="adm_no" autofocus="autofocus">
+</td></tr><tr><th>2.</th><th>Enter Security Code </th><td><input size="30" required="" type="text" name="adm_no1" autofocus="autofocus">
+</td></tr><tr><th>3.</th><th>Academic Month/Year</th><td>
+<select required="required" id="mon" name="academic_month">
+<option value="">Select Month</option>
+<option>
+July</option>
+</select>
+<select required="required" name="academic_year" class="yearpicker">
+<option value="">Select Year</option>
+
+
+<option value="2015">2015</option><option value="2014">2014</option><option value="2013">2013</option></select>
+</td></tr>
+
+
+
+<script>
+$(function() {
+    $(".show23").click(function() {
+        $(this).next("div").toggle("slow");
+    });
+$(".coll").chosen();
+});
+
+</script>
+
+<tr><th>4.</th><th>College Name</th><td><select required="" name="coll_name" class="coll chzn-done" id="sel6SZ" style="display: none;">
+<option value="">Select College</option>
+<option>College of Engineering, Munnar</option>
+<option>College of Engineering, Thalassery</option>
+<option>College of Engineering, Kottarakkara</option>
+<option>College of Engineering, Kidangoor</option>
+<option>College of Engineering, Adoor</option>
+<option>College of Engineering, Karunagapally</option>
+<option>College of Engineering, Chengannur</option>
+<option>College of Engineering, Kallooppara</option>
+<option>Model Engineering College</option>
+<option>College of Engineering, Perumon</option>
+<option>College of Engineering,Cherthala</option>
+<option>College of Engineering, Poonjar</option>
+<option>The Co-operative Medical College</option>
+<option>College of Engineering, Trikaripur</option>
+<option>Toc-H Institute of Science and Technology</option>
+<option>K.V.M. College of Engineering and Information Technology</option>
+<option>College of Engineering Attingal</option>
+<option>CMC Nursing College</option>
+<option>T.K.M. Institute of Technology</option>
+<option>Co-operative Institute of Technology, Vadakara</option>
+<option>Sarabhai Institute Of Science and Technology</option>
+<option>Central Institute of Fisheries,Nautical &amp; Engineering Training</option>
+<option>Conspi Academy of Management Studies</option>
+<option>M.G. College of Engineering</option>
+<option>Department of Applied Chemistry</option>
+<option>Department of Applied Economics</option>
+<option>Department of Mathematics</option>
+<option>Department of Atmospheric Sciences</option>
+<option>Department of Bio Technology</option>
+<option>Department of Computer Applications</option>
+<option>Department of Computer Science</option>
+<option>Department of Electronics</option>
+<option>Department of Hindi</option>
+<option>Department of Instrumentation</option>
+<option>Department of Marine Biology,Microbiology and Biochemistry</option>
+<option>Department of Marine Geology and Geophysics</option>
+<option>Department of Physical Oceanography</option>
+<option>Department of Physics</option>
+<option>Department of Polymer Science &amp; Rubber Technology</option>
+<option>Department of Ship Technology</option>
+<option>Department of Statistics</option>
+<option>Department of Commerce</option>
+<option>Indian Institute of Information Technology and Management</option>
+<option>ER &amp; DCI Institute of Technology</option>
+<option>Kunjali Marakkar School of Marine Engineering</option>
+<option>Kochin Base of Fishery India</option>
+<option>Bhavans Royal Institute Of Management, Ernakulam</option>
+<option>Cochin University College of Engineering, Kuttanad</option>
+<option>School of Engineering, Trikkakara</option>
+<option>School of Environmental Studies</option>
+<option>Department of English and Foreign Languages</option>
+<option>School of Legal Studies</option>
+<option>School of Industrial Fisheries</option>
+<option>School Of Management Studies</option>
+<option>College of Engineering, demo</option>
+<option>College of Engineering Pathanapuram</option>
+<option>Kochin Base of Fishery India</option>
+<option>Central Coir Research Institute</option>
+<option>test</option>
+<option>Inter University Centre for Intellectual Property Rights Studies</option>
+<option>Department of Chemical Oceanography</option>
+<option>School of Environmental Science</option>
+<option>Department of Biotechnology</option>
+<option>International School of Photonics</option>
+<option>Central Institute of Fisheries Technology</option>
+<option>Centre for Earth Science Studies</option>
+<option>Central Institute of Fisheries Nautical and Engineering Division</option>
+<option>Central Marine Fisheries Research Institute</option>
+<option>Marine Products Export Development Authority</option>
+<option>Naval Physical &amp; Oceanographic Laboratory</option>
+<option>National Institute of Oceanography</option>
+<option>The Rubber Research Institute of India</option>
+<option>Kerala Forest Research Institute</option>
+<option>Vikram Sarabhai Space Centre</option>
+<option>National Institute for Interdisciplinary Science and Technology</option>
+<option>Kerala Institute of Local Administration</option>
+<option>Cochin Base of Fishery survey of India</option>
+<option>Centre for Bio-Polymer Science and Technology</option>
+<option>Marian College of Architecture and Planning</option>
+<option>Nizar Rahim and Mark School of Architecture</option>
+<option>T.K.M School of Architecture</option>
+<option>College of Engineering , Aranmula </option>
+</select><div id="sel6SZ_chzn" class="chzn-container chzn-container-single" style="width: 392px;"><a href="javascript:void(0)" class="chzn-single"><span>Select College</span><div><b></b></div></a><div class="chzn-drop" style="left: -9000px; width: 390px; top: 25px;"><div class="chzn-search"><input type="text" autocomplete="off" style="width: 355px;"></div><ul class="chzn-results"><li id="sel6SZ_chzn_o_0" class="active-result result-selected" style="">Select College</li><li id="sel6SZ_chzn_o_1" class="active-result" style="">College of Engineering, Munnar</li><li id="sel6SZ_chzn_o_2" class="active-result" style="">College of Engineering, Thalassery</li><li id="sel6SZ_chzn_o_3" class="active-result" style="">College of Engineering, Kottarakkara</li><li id="sel6SZ_chzn_o_4" class="active-result" style="">College of Engineering, Kidangoor</li><li id="sel6SZ_chzn_o_5" class="active-result" style="">College of Engineering, Adoor</li><li id="sel6SZ_chzn_o_6" class="active-result" style="">College of Engineering, Karunagapally</li><li id="sel6SZ_chzn_o_7" class="active-result" style="">College of Engineering, Chengannur</li><li id="sel6SZ_chzn_o_8" class="active-result" style="">College of Engineering, Kallooppara</li><li id="sel6SZ_chzn_o_9" class="active-result" style="">Model Engineering College</li><li id="sel6SZ_chzn_o_10" class="active-result" style="">College of Engineering, Perumon</li><li id="sel6SZ_chzn_o_11" class="active-result" style="">College of Engineering,Cherthala</li><li id="sel6SZ_chzn_o_12" class="active-result" style="">College of Engineering, Poonjar</li><li id="sel6SZ_chzn_o_13" class="active-result" style="">The Co-operative Medical College</li><li id="sel6SZ_chzn_o_14" class="active-result" style="">College of Engineering, Trikaripur</li><li id="sel6SZ_chzn_o_15" class="active-result" style="">Toc-H Institute of Science and Technology</li><li id="sel6SZ_chzn_o_16" class="active-result" style="">K.V.M. College of Engineering and Information Technology</li><li id="sel6SZ_chzn_o_17" class="active-result" style="">College of Engineering Attingal</li><li id="sel6SZ_chzn_o_18" class="active-result" style="">CMC Nursing College</li><li id="sel6SZ_chzn_o_19" class="active-result" style="">T.K.M. Institute of Technology</li><li id="sel6SZ_chzn_o_20" class="active-result" style="">Co-operative Institute of Technology, Vadakara</li><li id="sel6SZ_chzn_o_21" class="active-result" style="">Sarabhai Institute Of Science and Technology</li><li id="sel6SZ_chzn_o_22" class="active-result" style="">Central Institute of Fisheries,Nautical &amp; Engineering Training</li><li id="sel6SZ_chzn_o_23" class="active-result" style="">Conspi Academy of Management Studies</li><li id="sel6SZ_chzn_o_24" class="active-result" style="">M.G. College of Engineering</li><li id="sel6SZ_chzn_o_25" class="active-result" style="">Department of Applied Chemistry</li><li id="sel6SZ_chzn_o_26" class="active-result" style="">Department of Applied Economics</li><li id="sel6SZ_chzn_o_27" class="active-result" style="">Department of Mathematics</li><li id="sel6SZ_chzn_o_28" class="active-result" style="">Department of Atmospheric Sciences</li><li id="sel6SZ_chzn_o_29" class="active-result" style="">Department of Bio Technology</li><li id="sel6SZ_chzn_o_30" class="active-result" style="">Department of Computer Applications</li><li id="sel6SZ_chzn_o_31" class="active-result" style="">Department of Computer Science</li><li id="sel6SZ_chzn_o_32" class="active-result" style="">Department of Electronics</li><li id="sel6SZ_chzn_o_33" class="active-result" style="">Department of Hindi</li><li id="sel6SZ_chzn_o_34" class="active-result" style="">Department of Instrumentation</li><li id="sel6SZ_chzn_o_35" class="active-result" style="">Department of Marine Biology,Microbiology and Biochemistry</li><li id="sel6SZ_chzn_o_36" class="active-result" style="">Department of Marine Geology and Geophysics</li><li id="sel6SZ_chzn_o_37" class="active-result" style="">Department of Physical Oceanography</li><li id="sel6SZ_chzn_o_38" class="active-result" style="">Department of Physics</li><li id="sel6SZ_chzn_o_39" class="active-result" style="">Department of Polymer Science &amp; Rubber Technology</li><li id="sel6SZ_chzn_o_40" class="active-result" style="">Department of Ship Technology</li><li id="sel6SZ_chzn_o_41" class="active-result" style="">Department of Statistics</li><li id="sel6SZ_chzn_o_42" class="active-result" style="">Department of Commerce</li><li id="sel6SZ_chzn_o_43" class="active-result" style="">Indian Institute of Information Technology and Management</li><li id="sel6SZ_chzn_o_44" class="active-result" style="">ER &amp; DCI Institute of Technology</li><li id="sel6SZ_chzn_o_45" class="active-result" style="">Kunjali Marakkar School of Marine Engineering</li><li id="sel6SZ_chzn_o_46" class="active-result" style="">Kochin Base of Fishery India</li><li id="sel6SZ_chzn_o_47" class="active-result" style="">Bhavans Royal Institute Of Management, Ernakulam</li><li id="sel6SZ_chzn_o_48" class="active-result" style="">Cochin University College of Engineering, Kuttanad</li><li id="sel6SZ_chzn_o_49" class="active-result" style="">School of Engineering, Trikkakara</li><li id="sel6SZ_chzn_o_50" class="active-result" style="">School of Environmental Studies</li><li id="sel6SZ_chzn_o_51" class="active-result" style="">Department of English and Foreign Languages</li><li id="sel6SZ_chzn_o_52" class="active-result" style="">School of Legal Studies</li><li id="sel6SZ_chzn_o_53" class="active-result" style="">School of Industrial Fisheries</li><li id="sel6SZ_chzn_o_54" class="active-result" style="">School Of Management Studies</li><li id="sel6SZ_chzn_o_55" class="active-result" style="">College of Engineering, demo</li><li id="sel6SZ_chzn_o_56" class="active-result" style="">College of Engineering Pathanapuram</li><li id="sel6SZ_chzn_o_57" class="active-result" style="">Kochin Base of Fishery India</li><li id="sel6SZ_chzn_o_58" class="active-result" style="">Central Coir Research Institute</li><li id="sel6SZ_chzn_o_59" class="active-result" style="">test</li><li id="sel6SZ_chzn_o_60" class="active-result" style="">Inter University Centre for Intellectual Property Rights Studies</li><li id="sel6SZ_chzn_o_61" class="active-result" style="">Department of Chemical Oceanography</li><li id="sel6SZ_chzn_o_62" class="active-result" style="">School of Environmental Science</li><li id="sel6SZ_chzn_o_63" class="active-result" style="">Department of Biotechnology</li><li id="sel6SZ_chzn_o_64" class="active-result" style="">International School of Photonics</li><li id="sel6SZ_chzn_o_65" class="active-result" style="">Central Institute of Fisheries Technology</li><li id="sel6SZ_chzn_o_66" class="active-result" style="">Centre for Earth Science Studies</li><li id="sel6SZ_chzn_o_67" class="active-result" style="">Central Institute of Fisheries Nautical and Engineering Division</li><li id="sel6SZ_chzn_o_68" class="active-result" style="">Central Marine Fisheries Research Institute</li><li id="sel6SZ_chzn_o_69" class="active-result" style="">Marine Products Export Development Authority</li><li id="sel6SZ_chzn_o_70" class="active-result" style="">Naval Physical &amp; Oceanographic Laboratory</li><li id="sel6SZ_chzn_o_71" class="active-result" style="">National Institute of Oceanography</li><li id="sel6SZ_chzn_o_72" class="active-result" style="">The Rubber Research Institute of India</li><li id="sel6SZ_chzn_o_73" class="active-result" style="">Kerala Forest Research Institute</li><li id="sel6SZ_chzn_o_74" class="active-result" style="">Vikram Sarabhai Space Centre</li><li id="sel6SZ_chzn_o_75" class="active-result" style="">National Institute for Interdisciplinary Science and Technology</li><li id="sel6SZ_chzn_o_76" class="active-result" style="">Kerala Institute of Local Administration</li><li id="sel6SZ_chzn_o_77" class="active-result" style="">Cochin Base of Fishery survey of India</li><li id="sel6SZ_chzn_o_78" class="active-result" style="">Centre for Bio-Polymer Science and Technology</li><li id="sel6SZ_chzn_o_79" class="active-result" style="">Marian College of Architecture and Planning</li><li id="sel6SZ_chzn_o_80" class="active-result" style="">Nizar Rahim and Mark School of Architecture</li><li id="sel6SZ_chzn_o_81" class="active-result" style="">T.K.M School of Architecture</li><li id="sel6SZ_chzn_o_82" class="active-result" style="">College of Engineering , Aranmula </li></ul></div></div></td></tr>
+<tr><th>5.</th><th>Degree Name</th><td><select name="dn" style="width:435px;">
+</select></td></tr>
+
+<tr><th>6.</th><th>Course Type/Branch Name</th><td><select required="true" name="capp">
+
+
+</select></td></tr>
+</tbody></table>
+
+
+<input type="submit" id="adm_no1" value="submit">
+
+<a href="http://exam.cusat.ac.in/erp5/cusat/Cusat-Registration/Student%20Registration/Instructions/home"><input type="button" value="Back"></a>
+
+</form>
+
+
+
+
+
+<script>
+$(function() {
+$("select[name='coll_name']").change(function(){
+$("select[name='dn']").find('option').remove();
+var variable=$(this).val();
+    $.post("degree1", { college_name: variable},
+    function(data){  
+        var $response=$(data);
+        $("select[name='dn']").append(data);
+    });
+    return false;
+});
+$("select[name='dn']").change(function(){
+$("select[name='capp']").find('option').remove();
+var variable=$(this).val();
+var col_name=$("select[name='coll_name']").val();
+    $.post("course1", { college_name: col_name,degree_name:variable},
+    function(data){  
+        var $response=$(data);
+        $("select[name='capp']").append(data);
+    });
+    return false;
+});
+//$("select[name='course_name']").change(function(){
+
+//$("select[name='semester_name']").find('option').remove();
+//var variable=$(this).val();
+//var deg_name=$("select[name='deg_name']").val();
+
+   // $.post("semester1", { degree_name: deg_name,course_name:variable},
+   // function(data){  
+    //    var $response=$(data);
+
+     //   $("select[name='semester_name']").append(data);
+   // });
+  //  return false;
+//});
+
+//$("#btn").click(function(){
+
+//$("#form1").empty();
+//var college_name=$("select[name='college_name']").val();
+//var course=$("select[name='course_name']").val();
+//var deg_name=$("select[name='deg_name']").val();
+//var subject_code=$("select[name='subject_name']").find('option:selected').data('value');
+//var subject_name=$("select[name='subject_name']").find('option:selected').data('parent');
+//var semester_name=$("select[name='semester_name']").val();
+   // $.post("internalform2", { degree_name: deg_name,course_name:course,college_name:college_name, subject_code:subject_code,subject_name:subject_name,semester_name:semester_name},
+    //function(data){  
+      //  var $response=$(data);
+//
+      //  $("#form1").append(data);
+   // });
+    //return false;
+//});
+//var x="2015/02/03 17:21:18.642 GMT+0530";
+//var y=x.split('/');
+
+//for (i = y[0]; i > 1900; i--)
+//{
+//    $('.yearpicker').append($('<option />').val(i).html(i));
+//}
+           
+	   
+
+
+
+	 
+});
+</script>
+
+
+
+</div>
+ 
+<!-- InstanceBeginEditable name="MainColumn" -->
+   </div><!-- end #maincol -->
+
+
+								</div><!-- end #content2Columns -->
+
+								<a name="bottom"></a>
+						  </div><!-- end .entry-content -->
+						</div><!-- end .page -->
+					</div><!-- end .container -->
+				</div><!-- end .clearfix -->
+			<!-- end #content -->
+
+		<!-- end #main -->
+	<!-- end #wrapper --><!-- #BeginLibraryItem "/Library/footer.lbi" --><div id="footer">
+		<div class="mainwidth">
+			<div class="footerColumn footerColumn1">
+				<div>
+					<div>
+						<p>Copyright © 2013 - 2015 CUSAT<br> All Rights Reserved.</p>						<p></p>
+					</div>
+
+				</div>
+			</div><!-- end .footerColumn1 -->
+						</div><!-- end .footerColumn1 -->
+			<div class="footerColumn footerColumn3">
+				<div>
+					<p>&nbsp;</p>
+				</div>
+			</div><!-- end .footerColumn3 -->
+			<div class="footerColumn footerColumn4">
+						</div><!-- end .mainwidth -->
+	</div><!-- #EndLibraryItem --><!-- end #footer -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-47992772-1', 'cusat.ac.in');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- End of skiplink javascript -->
+
+<!-- InstanceEnd -->
+
+</body></html>

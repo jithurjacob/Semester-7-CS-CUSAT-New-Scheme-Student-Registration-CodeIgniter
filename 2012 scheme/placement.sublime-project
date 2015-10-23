@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "C:\\wamp\\www\\cep\\placement"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\wamp\\www\\main project"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\wamp\\www\\jithu"
+		}
+	]
+}
